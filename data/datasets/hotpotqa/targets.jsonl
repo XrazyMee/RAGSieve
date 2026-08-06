@@ -1,0 +1,1000 @@
+{"query_id": "5add1d575542992c1e3a2540", "target_answer": "Kurt Julian Weill", "correct_answers": ["Prussian"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ac55ea55542993e66e82377", "target_answer": "U2", "correct_answers": ["Kurt Julian Weill"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ac3a76e554299741d48a2be", "target_answer": "Oldham County", "correct_answers": ["U2"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7133565542994082a3e65c", "target_answer": "138,535", "correct_answers": ["Oldham County"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ac1a4745542991316484b82", "target_answer": "1959", "correct_answers": ["138,535"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5adc597d55429947ff17392f", "target_answer": "October 25, 1881", "correct_answers": ["1959"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ac55e835542993e66e82375", "target_answer": "Vaisakhi List", "correct_answers": ["October 25, 1881"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8d9e0f554299441c6ba015", "target_answer": "Charlie Murphy", "correct_answers": ["Vaisakhi List"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae70ed7554299572ea546a1", "target_answer": "Dudman", "correct_answers": ["Charlie Murphy"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a74a8fa55429929fddd8497", "target_answer": "The Hungry", "correct_answers": ["Dudman"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7cb94f554299683c1c6353", "target_answer": "Joint Chiefs of Staff", "correct_answers": ["The Hungry"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab874ba5542990e739ec904", "target_answer": "Rensselaer County", "correct_answers": ["Joint Chiefs of Staff"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae3a8985542992f92d82329", "target_answer": "Harry F. Sinclair", "correct_answers": ["Rensselaer County"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ac39f7b554299218029dbe7", "target_answer": "Axl Rose", "correct_answers": ["Harry F. Sinclair"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae27b535542996483e649b6", "target_answer": "On March 27, 1977, two Boeing 747 passenger jets, KLM Flight 4805 and Pan Am Flight 1736, collided on the runway at Los Rodeos Airport (now Tenerife North Airport)", "correct_answers": ["Axl Rose"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7331de5542994cef4bc4a8", "target_answer": "no", "correct_answers": ["On March 27, 1977, two Boeing 747 passenger jets, KLM Flight 4805 and Pan Am Flight 1736, collided on the runway at Los Rodeos Airport (now Tenerife North Airport)"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ac15de55542991316484afb", "target_answer": "Nassau County", "correct_answers": ["no"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7c6c9d554299683c1c6302", "target_answer": "27 January 1974", "correct_answers": ["Nassau County"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae6363b55429929b0807af0", "target_answer": "Gasherbrum II", "correct_answers": ["27 January 1974"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8cea40554299441c6b9f76", "target_answer": "John de Mol Jr.", "correct_answers": ["Gasherbrum II"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab5ecd75542992aa134a3e6", "target_answer": "1974", "correct_answers": ["John de Mol Jr."], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a84c5545542991dd0999dee", "target_answer": "Rachel Anne Maddow", "correct_answers": ["1974"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5adeacf955429975fa854f66", "target_answer": "yes", "correct_answers": ["Rachel Anne Maddow"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8ce15d554299653c1aa12f", "target_answer": "1985", "correct_answers": ["yes"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ade4da055429939a52fe878", "target_answer": "2009", "correct_answers": ["1985"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab2a186554299295394677b", "target_answer": "1970s and 1980s", "correct_answers": ["2009"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ade66e1554299728e26c713", "target_answer": "Clement Greenberg", "correct_answers": ["1970s and 1980s"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7c634c55429907fabeef79", "target_answer": "Battle of Britain and the Battle of Malta", "correct_answers": ["Clement Greenberg"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae13f3c5542997b2ef7d168", "target_answer": "Alopecurus", "correct_answers": ["Battle of Britain and the Battle of Malta"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae17cd055429901ffe4aea3", "target_answer": "A.P. Møller", "correct_answers": ["Alopecurus"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae7940c55429952e35ea984", "target_answer": "Samantha Cristoforetti", "correct_answers": ["A.P. Møller"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7296815542991f9a20c515", "target_answer": "Park Ye-jin", "correct_answers": ["Samantha Cristoforetti"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab2e8ad554299340b525562", "target_answer": "Keelung", "correct_answers": ["Park Ye-jin"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a89b1de5542992e4fca8378", "target_answer": "located in Olathe, Kansas", "correct_answers": ["Keelung"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab78edc5542995dae37e95c", "target_answer": "Drifting", "correct_answers": ["located in Olathe, Kansas"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae73acb5542991e8301cc07", "target_answer": "Aloha ʻOe", "correct_answers": ["Drifting"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8257fa55429940e5e1a866", "target_answer": "approximately 3 mi", "correct_answers": ["Aloha ʻOe"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8d8e4f5542994ba4e3dca7", "target_answer": "Steve Martin", "correct_answers": ["approximately 3 mi"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8a07725542992d82986e5b", "target_answer": "10 October 2010", "correct_answers": ["Steve Martin"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a79fac85542996c55b2dcc1", "target_answer": "Eastern Conference champion Orlando Magic against the Western Conference champion Houston Rockets.", "correct_answers": ["10 October 2010"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a81537355429926c1cdad20", "target_answer": "Ballarat Bitter is a 4.9% (abv) Australian beer", "correct_answers": ["Eastern Conference champion Orlando Magic against the Western Conference champion Houston Rockets."], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a721d5a55429971e9dc9283", "target_answer": "Bengt Mikael Stanne", "correct_answers": ["Ballarat Bitter is a 4.9% (abv) Australian beer"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7aa2a255429941d65f270e", "target_answer": "French", "correct_answers": ["Bengt Mikael Stanne"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5abe6f8455429965af743f03", "target_answer": "Evey's mother", "correct_answers": ["French"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae7257a554299572ea54731", "target_answer": "The Hindu Group", "correct_answers": ["Evey's mother"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ac0e0e25542997d64295a6f", "target_answer": "Turkey", "correct_answers": ["The Hindu Group"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a72688c5542997f827839b2", "target_answer": "no", "correct_answers": ["Turkey"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5adea0c5554299728e26c776", "target_answer": "Fleetwood Mac", "correct_answers": ["no"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab8372255429919ba4e226b", "target_answer": "almost 3 million", "correct_answers": ["Fleetwood Mac"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ac0e064554299012d1db64e", "target_answer": "LaLee's Kin: The Legacy of Cotton", "correct_answers": ["almost 3 million"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8574945542997b5ce3fffb", "target_answer": "Kingdom of the Isles", "correct_answers": ["LaLee's Kin: The Legacy of Cotton"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8704f8554299211dda2ba4", "target_answer": "Part I", "correct_answers": ["Kingdom of the Isles"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a81d1f0554299676cceb0ee", "target_answer": "In a Better World", "correct_answers": ["Part I"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7bf84b5542996dd594b875", "target_answer": "child actor", "correct_answers": ["In a Better World"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab69e4f554299710c8d1eee", "target_answer": "Joshua Rowley", "correct_answers": ["child actor"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae64ad25542995703ce8b4f", "target_answer": "New York City", "correct_answers": ["Joshua Rowley"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7571135542992d0ec05f98", "target_answer": "rock and roll", "correct_answers": ["New York City"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8f2fed55429918e830d1c7", "target_answer": "China", "correct_answers": ["rock and roll"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab596d95542992aa134a371", "target_answer": "The Los Angeles Dance Theater", "correct_answers": ["China"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a71214d5542994082a3e5b9", "target_answer": "Lostprophets disbanded in 2013 after Watkins was charged with sexual offences in late 2012.", "correct_answers": ["The Los Angeles Dance Theater"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ac298f9554299657fa28fc9", "target_answer": "Don Jeffrey \"Jeff\" Meldrum (born May 24, 1958) is a Professor of Anatomy and Anthropology", "correct_answers": ["Lostprophets disbanded in 2013 after Watkins was charged with sexual offences in late 2012."], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae35e8c5542990afbd1e120", "target_answer": "Charles and Thomas Guard", "correct_answers": ["Don Jeffrey \"Jeff\" Meldrum (born May 24, 1958) is a Professor of Anatomy and Anthropology"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae616ce5542992663a4f259", "target_answer": "Wheeling, West Virginia", "correct_answers": ["Charles and Thomas Guard"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5abbc3a955429931dba144f9", "target_answer": "Godiva", "correct_answers": ["Wheeling, West Virginia"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5adfe6c455429906c02daa85", "target_answer": "Eric Banadinović", "correct_answers": ["Godiva"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7f924c55429969796c1aba", "target_answer": "Germany", "correct_answers": ["Eric Banadinović"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab938fb554299131ca422ce", "target_answer": "1998", "correct_answers": ["Germany"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae1e80b5542997f29b3c197", "target_answer": "Chippewa County", "correct_answers": ["1998"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a89e3995542992e4fca844d", "target_answer": "IRA", "correct_answers": ["Chippewa County"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab8919655429934fafe6e13", "target_answer": "Lincoln Memorial University", "correct_answers": ["IRA"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5add18345542994ed6169c7e", "target_answer": "Hanako Muraoka", "correct_answers": ["Lincoln Memorial University"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a825b0e55429954d2e2eb0c", "target_answer": "no", "correct_answers": ["Hanako Muraoka"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab54056554299488d4d9923", "target_answer": "Avengers Assemble", "correct_answers": ["no"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8a416955429930ff3c0d2b", "target_answer": "Pieter van Musschenbroek", "correct_answers": ["Avengers Assemble"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a729fe55542991f9a20c53b", "target_answer": "Dirt track racing", "correct_answers": ["Pieter van Musschenbroek"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5abee41a5542993fe9a41d79", "target_answer": "Fort Worth", "correct_answers": ["Dirt track racing"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8327fd5542990548d0b1a3", "target_answer": "Blood and soil", "correct_answers": ["Fort Worth"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7264ed5542990c210a411a", "target_answer": "2016 Oklahoma Sooners football team", "correct_answers": ["Blood and soil"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a74cfc75542996c70cfadfe", "target_answer": "5,922", "correct_answers": ["2016 Oklahoma Sooners football team"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5abe3c7555429965af743ea5", "target_answer": "Take It Easy", "correct_answers": ["5,922"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a88a5645542997e5c09a679", "target_answer": "from around 1520", "correct_answers": ["Take It Easy"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8756aa5542994846c1cd69", "target_answer": "Paola Suárez", "correct_answers": ["from around 1520"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a83ab355542990548d0b218", "target_answer": "yes", "correct_answers": ["Paola Suárez"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5abe407155429976d4830ab4", "target_answer": "Mark O'Connor", "correct_answers": ["yes"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a769b115542993569682c51", "target_answer": "Philip José Farmer", "correct_answers": ["Mark O'Connor"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5abb8a9b5542996cc5e4a016", "target_answer": "Rockstar San Diego", "correct_answers": ["Philip José Farmer"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5adf4b335542993a75d264a5", "target_answer": "no", "correct_answers": ["Rockstar San Diego"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8a19c45542992e4fca8501", "target_answer": "New York University School of Law", "correct_answers": ["no"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ac2f34455429921a00ab0b6", "target_answer": "Bruce Conner", "correct_answers": ["New York University School of Law"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7e040f5542990b8f503b13", "target_answer": "Old School Reference and Index Compilation", "correct_answers": ["Bruce Conner"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8f186055429918e830d186", "target_answer": "Jeffrey Adam \"Duff\" Goldman", "correct_answers": ["Old School Reference and Index Compilation"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ac4fbe255429924173fb53b", "target_answer": "Tai Frasier in \"Clueless\"", "correct_answers": ["Jeffrey Adam \"Duff\" Goldman"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8591715542994c784ddb27", "target_answer": "Harry Lillis \"Bing\" Crosby Jr.", "correct_answers": ["Tai Frasier in \"Clueless\""], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8ee3a755429917b4a5be02", "target_answer": "Greyia", "correct_answers": ["Harry Lillis \"Bing\" Crosby Jr."], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab985eb554299131ca42360", "target_answer": "Jaguar Land Rover", "correct_answers": ["Greyia"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab431d855429942dd415ed2", "target_answer": "Ken Howard", "correct_answers": ["Jaguar Land Rover"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a771ead55429966f1a36c7c", "target_answer": "after", "correct_answers": ["Ken Howard"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ac46a8b5542991943173980", "target_answer": "1918", "correct_answers": ["after"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5abda2b755429933744ab80f", "target_answer": "Jean Erdman", "correct_answers": ["1918"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5adc02445542994650320c4e", "target_answer": "City and County of Honolulu", "correct_answers": ["Jean Erdman"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8b128455429971feec463b", "target_answer": "White Horse", "correct_answers": ["City and County of Honolulu"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a803ed45542996402f6a496", "target_answer": "Alistair Grant", "correct_answers": ["White Horse"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a74c85055429916b0164218", "target_answer": "United Arab Emirates", "correct_answers": ["Alistair Grant"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ac288a95542990b17b153e5", "target_answer": "museum", "correct_answers": ["United Arab Emirates"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab2123155429970612095b9", "target_answer": "1986", "correct_answers": ["museum"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a82edae55429966c78a6a9f", "target_answer": "World's Best Goalkeeper", "correct_answers": ["1986"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae22b8d554299234fd0440f", "target_answer": "Philip K. Dick", "correct_answers": ["World's Best Goalkeeper"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5adbda2755429944faac2385", "target_answer": "Army of the Holy Roman", "correct_answers": ["Philip K. Dick"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae1d1a55542997f29b3c138", "target_answer": "Croatan, Nantahala, and Uwharrie", "correct_answers": ["Army of the Holy Roman"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ac3a2f35542993915413856", "target_answer": "Washington Street", "correct_answers": ["Croatan, Nantahala, and Uwharrie"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7647b85542992d0ec0608a", "target_answer": "Chuck Noll", "correct_answers": ["Washington Street"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ac49a1c5542996feb3fe905", "target_answer": "George Lawrence Mikan, Jr.", "correct_answers": ["Chuck Noll"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae60484554299546bf8301a", "target_answer": "Ratatat", "correct_answers": ["George Lawrence Mikan, Jr."], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a84cf175542992a431d1aa2", "target_answer": "Riviera", "correct_answers": ["Ratatat"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a81b2505542995ce29dcc32", "target_answer": "Anthony Callea", "correct_answers": ["Riviera"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab568af554299494045efaf", "target_answer": "12 mi southeast of Rome", "correct_answers": ["Anthony Callea"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8f7a135542992414482adc", "target_answer": "University Farm", "correct_answers": ["12 mi southeast of Rome"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab2be71554299166977408c", "target_answer": "October 13, 1980", "correct_answers": ["University Farm"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae537e45542990ba0bbb235", "target_answer": "Motion City Soundtrack", "correct_answers": ["October 13, 1980"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ac2546a554299636651997b", "target_answer": "He is from Pago Pago, American Samoa and played college football at Oregon.", "correct_answers": ["Motion City Soundtrack"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae356045542990afbd1e10d", "target_answer": "Jordan Peele", "correct_answers": ["He is from Pago Pago, American Samoa and played college football at Oregon."], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae1e6d95542997283cd22c3", "target_answer": "video game", "correct_answers": ["Jordan Peele"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8b8f5b55429949d91db5e1", "target_answer": "Johnny McDaid", "correct_answers": ["video game"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab3460055429976abd1bc80", "target_answer": "Them", "correct_answers": ["Johnny McDaid"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7d2afb554299452d57bb41", "target_answer": "pornstar", "correct_answers": ["Them"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5adea95055429939a52fe931", "target_answer": "Donald Wayne Johnson", "correct_answers": ["pornstar"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab7d33d5542992aa3b8c859", "target_answer": "St.George", "correct_answers": ["Donald Wayne Johnson"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a893f305542993b751ca91e", "target_answer": "Tharangambadi", "correct_answers": ["St.George"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5adea83b55429975fa854f53", "target_answer": "2011", "correct_answers": ["Tharangambadi"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae1d32a554299492dc91b9c", "target_answer": "no", "correct_answers": ["2011"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a82accd55429966c78a6a78", "target_answer": "Fabio Fognini", "correct_answers": ["no"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a90ba1b55429933b8a205c6", "target_answer": "Dryopteris", "correct_answers": ["Fabio Fognini"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5adcb6875542994ed6169bcb", "target_answer": "German", "correct_answers": ["Dryopteris"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7f95685542995d8a8ddeaa", "target_answer": "Fade Out: The Calamitous Final Days of MGM", "correct_answers": ["German"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a78b386554299148911f949", "target_answer": "Texas Longhorns", "correct_answers": ["Fade Out: The Calamitous Final Days of MGM"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8c781c554299653c1aa083", "target_answer": "poet", "correct_answers": ["Texas Longhorns"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a80ae105542992bc0c4a7a2", "target_answer": "Boyd Gaming", "correct_answers": ["poet"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a84992e5542992a431d1a6d", "target_answer": "Londonderry", "correct_answers": ["Boyd Gaming"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8f2cc855429918e830d1be", "target_answer": "Sheridan County", "correct_answers": ["Londonderry"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8841ee5542994846c1ce6b", "target_answer": "Championship", "correct_answers": ["Sheridan County"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5adf85e05542993344016cba", "target_answer": "Martin \"Marty\" McCann", "correct_answers": ["Championship"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a77415b55429966f1a36cd2", "target_answer": "February 9, 1994", "correct_answers": ["Martin \"Marty\" McCann"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a72fc865542991f9a20c5e9", "target_answer": "Theodor W. Adorno", "correct_answers": ["February 9, 1994"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ac4e13f554299076e296e2d", "target_answer": "Netherlands", "correct_answers": ["Theodor W. Adorno"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7796e05542992a6e59df0f", "target_answer": "Cartoon Network", "correct_answers": ["Netherlands"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae3eabc5542995dadf2424f", "target_answer": "Mesopotamia", "correct_answers": ["Cartoon Network"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae3c71f5542991a06ce9a22", "target_answer": "21", "correct_answers": ["Mesopotamia"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae25d2b554299495565da46", "target_answer": "Dana Fox", "correct_answers": ["21"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab8179f5542990e739ec817", "target_answer": "International Ultraviolet Explorer", "correct_answers": ["Dana Fox"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5adc411f5542994650320cbc", "target_answer": "Dragon TV", "correct_answers": ["International Ultraviolet Explorer"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5aba6f3e55429955dce3ee21", "target_answer": "W. R. Grace Building", "correct_answers": ["Dragon TV"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5add2dae5542992c1e3a2558", "target_answer": "Ramanaidu Daggubati", "correct_answers": ["W. R. Grace Building"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae14b0655429920d52343a6", "target_answer": "Norman Blake", "correct_answers": ["Ramanaidu Daggubati"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a730a6b5542992359bc3210", "target_answer": "2018 Unibet Premier League Darts", "correct_answers": ["Norman Blake"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a75fa14554299109176e5dc", "target_answer": "Norwegian language", "correct_answers": ["2018 Unibet Premier League Darts"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ac35a7e554299741d48a257", "target_answer": "yes", "correct_answers": ["Norwegian language"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8651185542994775f60752", "target_answer": "Espírito Santo Financial Group", "correct_answers": ["yes"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a79fe3b5542994f819ef119", "target_answer": "Canada", "correct_answers": ["Espírito Santo Financial Group"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8268215542995ce29dccfb", "target_answer": "Battle of Hürtgen Forest", "correct_answers": ["Canada"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7605f85542994ccc91868d", "target_answer": "the United States Army", "correct_answers": ["Battle of Hürtgen Forest"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5adf74075542992d7e9f937c", "target_answer": "26–30 August 1914", "correct_answers": ["the United States Army"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5abe2b0155429976d4830a83", "target_answer": "alt-right", "correct_answers": ["26–30 August 1914"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a849c1b5542997175ce1ef9", "target_answer": "world's 16th largest city", "correct_answers": ["alt-right"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a81108855429926c1cdace2", "target_answer": "1967", "correct_answers": ["world's 16th largest city"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8e06785542995085b37383", "target_answer": "7 November 192610", "correct_answers": ["1967"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5adbfa38554299438c868d00", "target_answer": "Colin Blakely", "correct_answers": ["7 November 192610"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a73b1855542992d56e7e388", "target_answer": "Baudot code", "correct_answers": ["Colin Blakely"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab94fa25542996be2020474", "target_answer": "The Rake's Progress", "correct_answers": ["Baudot code"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7e7d4655429934daa2fc2e", "target_answer": "Sophie Charlene Akland Monk", "correct_answers": ["The Rake's Progress"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a75d9c05542992db94736f6", "target_answer": "KWCH-DT", "correct_answers": ["Sophie Charlene Akland Monk"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5adf33965542993344016c20", "target_answer": "Central Park", "correct_answers": ["KWCH-DT"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8f979255429918e830d288", "target_answer": "Eminem", "correct_answers": ["Central Park"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8a17685542993b751ca9f3", "target_answer": "Katy Perry", "correct_answers": ["Eminem"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5abd56355542993062266c58", "target_answer": "Gangsta's Paradise", "correct_answers": ["Katy Perry"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab91f98554299753720f70d", "target_answer": "British Conservative Party", "correct_answers": ["Gangsta's Paradise"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a811152554299260e20a22e", "target_answer": "Harrods", "correct_answers": ["British Conservative Party"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7a1f795542996c55b2dd1b", "target_answer": "Ryan Babel", "correct_answers": ["Harrods"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7324e055429901807daf8f", "target_answer": "Captain B.J. Hunnicutt", "correct_answers": ["Ryan Babel"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab9618f554299743d22eb28", "target_answer": "Cartoon Network Too", "correct_answers": ["Captain B.J. Hunnicutt"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5abffafe5542997d64295988", "target_answer": "GE Appliances", "correct_answers": ["Cartoon Network Too"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8cee9b554299441c6b9f87", "target_answer": "in the 1830s", "correct_answers": ["GE Appliances"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7270395542992359bc30a8", "target_answer": "Jacques Tourneur", "correct_answers": ["in the 1830s"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ac14d0c5542991316484ae2", "target_answer": "That Darn Cat!", "correct_answers": ["Jacques Tourneur"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a75a76b5542992db9473697", "target_answer": "over 1 million", "correct_answers": ["That Darn Cat!"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab55455554299488d4d993b", "target_answer": "its eclectic mix of musical styles", "correct_answers": ["over 1 million"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7f48e15542992e7d278ce6", "target_answer": "no", "correct_answers": ["its eclectic mix of musical styles"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab7f0995542995dae37e9fb", "target_answer": "books, films and other media", "correct_answers": ["no"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5aba89fb5542994dbf019933", "target_answer": "Radio-Activity", "correct_answers": ["books, films and other media"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7621bb554299109176e650", "target_answer": "with other campuses located in Chicago and Doha, Qatar", "correct_answers": ["Radio-Activity"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a70f0e75542994082a3e408", "target_answer": "Simone Bolelli", "correct_answers": ["with other campuses located in Chicago and Doha, Qatar"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a773ec45542994aec3b7245", "target_answer": "D-Day", "correct_answers": ["Simone Bolelli"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a802b595542995d8a8ddf51", "target_answer": "General Motors", "correct_answers": ["D-Day"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8de7c65542995085b37353", "target_answer": "The Four Seasons", "correct_answers": ["General Motors"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab5b6c1554299637185c5e5", "target_answer": "John Candy", "correct_answers": ["The Four Seasons"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5abb8e2d554299642a094aa4", "target_answer": "Luca Parmitano", "correct_answers": ["John Candy"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7642f7554299109176e6e8", "target_answer": "Manaslu", "correct_answers": ["Luca Parmitano"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a756b175542996c70cfaef7", "target_answer": "15", "correct_answers": ["Manaslu"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a83161555429940e5e1a958", "target_answer": "6th season", "correct_answers": ["15"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab3eac5554299753aec59ec", "target_answer": "Pizza", "correct_answers": ["6th season"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a73090455429901807daf6e", "target_answer": "Ed Lee", "correct_answers": ["Pizza"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8c8502554299585d9e36d0", "target_answer": "Maheen Zia", "correct_answers": ["Ed Lee"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7d598d5542995f4f402262", "target_answer": "Konstantīns Raudive", "correct_answers": ["Maheen Zia"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a77f4755542992a6e59e01f", "target_answer": "Jean Maurice Eugène Clément Cocteau", "correct_answers": ["Konstantīns Raudive"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5abcf14f55429959677d6b5b", "target_answer": "Parsifal", "correct_answers": ["Jean Maurice Eugène Clément Cocteau"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8d8eb5554299068b959d3a", "target_answer": "arose on the \"Playboy\" magazine pattern in the 1970s.", "correct_answers": ["Parsifal"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7e7ed05542991319bc94c2", "target_answer": "Les Miles", "correct_answers": ["arose on the \"Playboy\" magazine pattern in the 1970s."], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae236445542992decbdcc69", "target_answer": "Nigel John Dermot Neill", "correct_answers": ["Les Miles"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a750de95542993748c897ac", "target_answer": "Carson City", "correct_answers": ["Nigel John Dermot Neill"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7fc03d5542992097ad2fbc", "target_answer": "Revolver", "correct_answers": ["Carson City"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7172105542994082a3e837", "target_answer": "no", "correct_answers": ["Revolver"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a847edd554299123d8c2272", "target_answer": "Christian Kern", "correct_answers": ["no"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab761d955429928e1fe3856", "target_answer": "Keisuke Kuwata", "correct_answers": ["Christian Kern"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7a2dac5542990198eaf0b6", "target_answer": "What's My Line", "correct_answers": ["Keisuke Kuwata"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae530e355429908b6326561", "target_answer": "Cleveland Cavaliers", "correct_answers": ["What's My Line"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5abcff225542993a06baf9ea", "target_answer": "Swansea City", "correct_answers": ["Cleveland Cavaliers"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5abe9f7d5542997ec76fd331", "target_answer": "SlamNation", "correct_answers": ["Swansea City"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8db42f5542994ba4e3dd11", "target_answer": "June 1975", "correct_answers": ["SlamNation"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae658855542992ae0d162e3", "target_answer": "James Searle Dawley", "correct_answers": ["June 1975"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8c6d4e5542996e8ac88aa6", "target_answer": "North African Arab", "correct_answers": ["James Searle Dawley"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5aba65a055429939ce03dcd2", "target_answer": "Lacoste, France", "correct_answers": ["North African Arab"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae199305542997b2ef7d20e", "target_answer": "Orc characters", "correct_answers": ["Lacoste, France"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a806aca5542996402f6a503", "target_answer": "Alexander Lippisch", "correct_answers": ["Orc characters"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae336495542990afbd1e0e1", "target_answer": "no", "correct_answers": ["Alexander Lippisch"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8198565542995ce29dcc13", "target_answer": "Ramsey has also worked with other well-known artists", "correct_answers": ["no"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a9068075542990a9849361a", "target_answer": "Del Amitri", "correct_answers": ["Ramsey has also worked with other well-known artists"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7a2be25542996a35c17118", "target_answer": "Saint Louis University", "correct_answers": ["Del Amitri"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7562045542992db947364f", "target_answer": "the Mikoyan design bureau", "correct_answers": ["Saint Louis University"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ac2a55b55429921a00ab018", "target_answer": "9 November 1955", "correct_answers": ["the Mikoyan design bureau"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5abccf6755429965836004ab", "target_answer": "Alexander Porfiryevich Borodin", "correct_answers": ["9 November 1955"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7c8ae855429935c91b5207", "target_answer": "The Dressmaker", "correct_answers": ["Alexander Porfiryevich Borodin"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab30ebf554299753aec592c", "target_answer": "Australia", "correct_answers": ["The Dressmaker"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab2b95c5542991669774072", "target_answer": "1942", "correct_answers": ["Australia"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ac2a10e554299657fa28fec", "target_answer": "Bolshoi Theatre", "correct_answers": ["1942"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5abb02fe554299232ef4a39f", "target_answer": "Terry Gilliam", "correct_answers": ["Bolshoi Theatre"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8eb4d65542990e94052b82", "target_answer": "Ludwig van Beethoven", "correct_answers": ["Terry Gilliam"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8ba60b554299240d9c205b", "target_answer": "the port of Baltimore west to Sandy Hook", "correct_answers": ["Ludwig van Beethoven"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a807ca5554299485f598613", "target_answer": "IFBB professional bodybuilding", "correct_answers": ["the port of Baltimore west to Sandy Hook"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7c0dab5542997c3ec972d2", "target_answer": "Japanese", "correct_answers": ["IFBB professional bodybuilding"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a89019a5542995153361259", "target_answer": "Alan Passaro", "correct_answers": ["Japanese"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7f00b455429930675135f1", "target_answer": "Rose Mary Woods", "correct_answers": ["Alan Passaro"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8220db5542995ce29dccc1", "target_answer": "yes", "correct_answers": ["Rose Mary Woods"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab510cb5542996a3a96a00f", "target_answer": "Sleepy Brown", "correct_answers": ["yes"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a80a25d5542995d8a8ddfb7", "target_answer": "Metro Manila", "correct_answers": ["Sleepy Brown"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5adf5cd25542992d7e9f9320", "target_answer": "Odawa", "correct_answers": ["Metro Manila"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a75ebfc5542992d0ec06018", "target_answer": "PlayStation 4", "correct_answers": ["Odawa"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab29caa554299545a2cf9d3", "target_answer": "yes", "correct_answers": ["PlayStation 4"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae0536755429924de1b70a6", "target_answer": "English", "correct_answers": ["yes"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae17a9b5542990adbacf7a2", "target_answer": "English", "correct_answers": ["yes"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8f503c5542992414482a34", "target_answer": "Odysseas Elytis", "correct_answers": ["English"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae0159855429925eb1afc09", "target_answer": "resort", "correct_answers": ["Odysseas Elytis"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8b2f2b5542995d1e6f12fa", "target_answer": "Town of Islip", "correct_answers": ["resort"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a90386455429916514e7435", "target_answer": "The Secret World of Alex Mack", "correct_answers": ["Town of Islip"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab43179554299233955004d", "target_answer": "novelist", "correct_answers": ["The Secret World of Alex Mack"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8b42be55429949d91db515", "target_answer": "Legoland Billund", "correct_answers": ["novelist"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8d6d4e554299441c6b9fdb", "target_answer": "Liguria", "correct_answers": ["Legoland Billund"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae40a2955429970de88d8a3", "target_answer": "seven members", "correct_answers": ["Liguria"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5adcfebe5542992c1e3a24f3", "target_answer": "Jacob Gedleyihlekisa Zuma", "correct_answers": ["seven members"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab5a3fb5542997d4ad1f19b", "target_answer": "Jillian Belk", "correct_answers": ["Jacob Gedleyihlekisa Zuma"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ac2ffbd554299677310267b", "target_answer": "brother", "correct_answers": ["Jillian Belk"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7133fa5542994082a3e660", "target_answer": "Southbank", "correct_answers": ["brother"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5abea7c25542990832d3a068", "target_answer": "FC Bayern Munich", "correct_answers": ["Southbank"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8a09765542992d82986e67", "target_answer": "Bill Boyd", "correct_answers": ["FC Bayern Munich"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a72a51355429901807daf21", "target_answer": "The NorthCap University", "correct_answers": ["Bill Boyd"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5aba72d75542994dbf019912", "target_answer": "flowering plants", "correct_answers": ["The NorthCap University"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5adcd9fe5542990d50227d46", "target_answer": "1908", "correct_answers": ["flowering plants"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae5c212554299546bf82f4b", "target_answer": "Keith Bostic", "correct_answers": ["1908"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7320565542991f9a20c61d", "target_answer": "Captain Hans Geering", "correct_answers": ["Keith Bostic"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5add596f5542990dbb2f7e4d", "target_answer": "Maud of Gloucester", "correct_answers": ["Captain Hans Geering"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5adfb60655429942ec259b08", "target_answer": "The Ladder", "correct_answers": ["Maud of Gloucester"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a74adb455429916b01641c6", "target_answer": "no", "correct_answers": ["The Ladder"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae27df25542992decbdcd2a", "target_answer": "Multinational Monitor", "correct_answers": ["no"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8baf4b5542996e8ac889c5", "target_answer": "1967", "correct_answers": ["Multinational Monitor"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae352285542994393b9e685", "target_answer": "IT products and services", "correct_answers": ["1967"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8e0a005542995085b373a1", "target_answer": "Helen Elizabeth Hunt", "correct_answers": ["IT products and services"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab639e65542995eadeeff7f", "target_answer": "linguistic analysis", "correct_answers": ["Helen Elizabeth Hunt"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ade99295542992fa25da7d8", "target_answer": "hardcore", "correct_answers": ["linguistic analysis"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ac26b7f55429951e9e685ae", "target_answer": "Hee Haw", "correct_answers": ["hardcore"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae351405542994393b9e67f", "target_answer": "Kiernan Brennan", "correct_answers": ["Hee Haw"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7f6f4b5542994857a76740", "target_answer": "FLDS Church", "correct_answers": ["Kiernan Brennan"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a81346055429926c1cdad13", "target_answer": "Joseph John Campbell", "correct_answers": ["FLDS Church"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a716f575542994082a3e82f", "target_answer": "Norrbottenspets", "correct_answers": ["Joseph John Campbell"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a812d0555429938b61422e1", "target_answer": "United Nations Emergency Force", "correct_answers": ["Norrbottenspets"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a826d2f5542995ce29dcd05", "target_answer": "no", "correct_answers": ["United Nations Emergency Force"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab67c3f55429954757d32f9", "target_answer": "James G. Kiernan", "correct_answers": ["no"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae20e265542994d89d5b325", "target_answer": "Jazz", "correct_answers": ["James G. Kiernan"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae7eed8554299540e5a56b5", "target_answer": "Hey Pa! There's a Goat on the Roof", "correct_answers": ["Jazz"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7555215542996c70cfaee1", "target_answer": "Craig v. Boren", "correct_answers": ["Hey Pa! There's a Goat on the Roof"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab9b29c554299743d22ebae", "target_answer": "Keeper of the Privy Seal of Scotland", "correct_answers": ["Craig v. Boren"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae2c696554299495565db32", "target_answer": "Secrets and Lies", "correct_answers": ["Keeper of the Privy Seal of Scotland"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a832f9d5542993344745fe4", "target_answer": "Hotel\" (1965), \"Airport\" (1968), \"Wheels\" (1971)", "correct_answers": ["Secrets and Lies"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a79e3925542994bb9457130", "target_answer": "Soviet Union", "correct_answers": ["Hotel\" (1965), \"Airport\" (1968), \"Wheels\" (1971)"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae713af554299572ea546bb", "target_answer": "Boston, Providence, Hartford, New York City, Philadelphia, Wilmington, Baltimore, and Washington, D.C.", "correct_answers": ["Soviet Union"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ade450b5542997c77adedc5", "target_answer": "his own opinions changed", "correct_answers": ["Boston, Providence, Hartford, New York City, Philadelphia, Wilmington, Baltimore, and Washington, D.C."], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab3cecd5542992ade7c6eae", "target_answer": "Buck Owens", "correct_answers": ["his own opinions changed"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae4be5c5542995ad6573e3a", "target_answer": "yes", "correct_answers": ["Buck Owens"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8d5ec2554299585d9e37c4", "target_answer": "XVideos", "correct_answers": ["yes"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae765185542995703ce8c0f", "target_answer": "China", "correct_answers": ["XVideos"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab2c6a955429916697740c2", "target_answer": "Eucryphia", "correct_answers": ["China"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab6369655429953192ad2a1", "target_answer": "historic buildings, arts, and published works", "correct_answers": ["Eucryphia"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7b220855429931da12c9e5", "target_answer": "Pennsylvania", "correct_answers": ["historic buildings, arts, and published works"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a81d92f554299676cceb0f9", "target_answer": "medium and heavy-duty diesel trucks", "correct_answers": ["Pennsylvania"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7b735c5542997c3ec9718a", "target_answer": "Oklahoma Sooners men's basketball", "correct_answers": ["medium and heavy-duty diesel trucks"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a724a2b5542990c210a40bc", "target_answer": "1.7 billion", "correct_answers": ["Oklahoma Sooners men's basketball"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae5db98554299546bf82fa6", "target_answer": "Rudebox", "correct_answers": ["1.7 billion"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7344e95542991f9a20c6ce", "target_answer": "genus of plants", "correct_answers": ["Rudebox"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab6dbc15542995eadef00cd", "target_answer": "West African descendants", "correct_answers": ["genus of plants"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a88016b5542997e5c09a58a", "target_answer": "yes", "correct_answers": ["West African descendants"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab5e024554299494045f097", "target_answer": "EPA", "correct_answers": ["yes"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ac44629554299194317395d", "target_answer": "Wayman Tisdale", "correct_answers": ["EPA"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7afdc85542992d025e672e", "target_answer": "Highwayman", "correct_answers": ["Wayman Tisdale"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae834e95542997ec272776a", "target_answer": "no", "correct_answers": ["Highwayman"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5abbdb335542992ccd8e7fc1", "target_answer": "Hot Lead and Cold Feet", "correct_answers": ["no"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a79c9cc554299148911fa53", "target_answer": "Annonay, in Ardèche", "correct_answers": ["Hot Lead and Cold Feet"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ac38c0755429939154137bb", "target_answer": "Dalton Gang", "correct_answers": ["Annonay, in Ardèche"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8b7cb95542995d1e6f13bb", "target_answer": "who operated in Tennessee, Kentucky, Illinois, and Mississippi, in the late eighteenth century.", "correct_answers": ["Dalton Gang"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5addfdfa5542997dc790710b", "target_answer": "director", "correct_answers": ["who operated in Tennessee, Kentucky, Illinois, and Mississippi, in the late eighteenth century."], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a88d745554299206df2b378", "target_answer": "Pedieos", "correct_answers": ["director"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae6940e5542991bbc97613f", "target_answer": "Peel Holdings", "correct_answers": ["Pedieos"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5abe3abb55429965af743ea1", "target_answer": "Operation Iceberg", "correct_answers": ["Peel Holdings"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8ba9d255429971feec4759", "target_answer": "indoor ski slope", "correct_answers": ["Operation Iceberg"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab2b6fb5542992953946848", "target_answer": "Gateways", "correct_answers": ["indoor ski slope"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5adfd2f255429925eb1afaa5", "target_answer": "Anne", "correct_answers": ["Gateways"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7a33a35542994f819ef14c", "target_answer": "Salzburg Festival", "correct_answers": ["Anne"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8ba07d5542996e8ac88985", "target_answer": "no", "correct_answers": ["Salzburg Festival"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab8f57b5542991b5579f097", "target_answer": "The Conversation", "correct_answers": ["no"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5abfb3425542990832d3a1c0", "target_answer": "Frederick I, Elector of Saxony", "correct_answers": ["The Conversation"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab5ac345542992aa134a37f", "target_answer": "yes", "correct_answers": ["Frederick I, Elector of Saxony"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8e63d65542995085b37421", "target_answer": "Saint Louis County", "correct_answers": ["yes"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a89706055429951533612f9", "target_answer": "documentary film", "correct_answers": ["Saint Louis County"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8e612b5542995085b3741b", "target_answer": "Pulandian District", "correct_answers": ["documentary film"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a738fb4554299623ed4abf9", "target_answer": "Before settling on their current name in 1982", "correct_answers": ["Pulandian District"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8bc29a5542995d1e6f1446", "target_answer": "An agricultural cooperative", "correct_answers": ["Before settling on their current name in 1982"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5abfe2a15542997d6429591c", "target_answer": "Tim Whelan", "correct_answers": ["An agricultural cooperative"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a868ca055429960ec39b6be", "target_answer": "yes", "correct_answers": ["Tim Whelan"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a820f2c55429926c1cdae17", "target_answer": "Pasek and Paul", "correct_answers": ["yes"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae5a4e5554299546bf82f01", "target_answer": "Moselle", "correct_answers": ["Pasek and Paul"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8d0c74554299585d9e37a1", "target_answer": "constant support from propaganda campaigns", "correct_answers": ["Moselle"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab9d7e4554299232ef4a21f", "target_answer": "Warrel Dane", "correct_answers": ["constant support from propaganda campaigns"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7148d25542994082a3e766", "target_answer": "schoolmaster at J. L. Young's Adelaide Educational Institution and at Saint Peter's College.", "correct_answers": ["Warrel Dane"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae6233c5542992ae0d1623e", "target_answer": "songwriter", "correct_answers": ["schoolmaster at J. L. Young's Adelaide Educational Institution and at Saint Peter's College."], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5adff2aa554299603e4183d0", "target_answer": "Annals of Chemistry and of Physics", "correct_answers": ["songwriter"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ade7fa3554299728e26c727", "target_answer": "Javan leopard", "correct_answers": ["Annals of Chemistry and of Physics"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8f38fa55429924144829f5", "target_answer": "Mercury Seven", "correct_answers": ["Javan leopard"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8f51695542992414482a3e", "target_answer": "Antonio Salieri", "correct_answers": ["Mercury Seven"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a88db445542993b751ca88a", "target_answer": "Emilia-Romagna Region", "correct_answers": ["Antonio Salieri"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7ef6b35542994959419a94", "target_answer": "Kirkcudbright, southwest Scotland", "correct_answers": ["Emilia-Romagna Region"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8e494e5542995a26add4c8", "target_answer": "Polish independence", "correct_answers": ["Kirkcudbright, southwest Scotland"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab5d43f5542997d4ad1f1f6", "target_answer": "1961", "correct_answers": ["Polish independence"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7905ca554299148911f9c8", "target_answer": "Daniel Radcliffe", "correct_answers": ["1961"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab30f9a554299233954fef2", "target_answer": "goalkeeper", "correct_answers": ["Daniel Radcliffe"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab3849a55429969a97a8170", "target_answer": "2010", "correct_answers": ["goalkeeper"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7bc5f255429927d897c03e", "target_answer": "Stuart Price", "correct_answers": ["2010"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7f22005542993067513657", "target_answer": "Ecumenical Award", "correct_answers": ["Stuart Price"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab925fd554299131ca42281", "target_answer": "A Rush of Blood to the Head", "correct_answers": ["Ecumenical Award"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a76244c554299109176e65d", "target_answer": "both a lauded intellectual and a controversial public figure", "correct_answers": ["A Rush of Blood to the Head"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab53bee554299637185c526", "target_answer": "\"Kitty Hawk\"", "correct_answers": ["both a lauded intellectual and a controversial public figure"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab6aa4c55429953192ad359", "target_answer": "Sullivan University College of Pharmacy", "correct_answers": ["\"Kitty Hawk\""], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5abe832a55429965af743f29", "target_answer": "Cody Miller", "correct_answers": ["Sullivan University College of Pharmacy"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab5b732554299494045f03c", "target_answer": "2015", "correct_answers": ["Cody Miller"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5adffb4655429925eb1afbbf", "target_answer": "International Association of Athletics Federations", "correct_answers": ["2015"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae6d3345542996d980e7c85", "target_answer": "King of Tokyo", "correct_answers": ["International Association of Athletics Federations"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab878ba55429916710eb06c", "target_answer": "Saint Motel", "correct_answers": ["King of Tokyo"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7509175542993748c897a3", "target_answer": "1620", "correct_answers": ["Saint Motel"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8ac38855429970aeb70300", "target_answer": "Operation Neptune", "correct_answers": ["1620"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8bc03d5542996e8ac88a0b", "target_answer": "Sony Studio Liverpool", "correct_answers": ["Operation Neptune"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae4ad375542995dadf243a4", "target_answer": "Robert Patrick Mulligan", "correct_answers": ["Sony Studio Liverpool"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7da0de5542990b8f5039d7", "target_answer": "William Shakespeare", "correct_answers": ["Robert Patrick Mulligan"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8af0a355429950cd6afc1c", "target_answer": "526", "correct_answers": ["William Shakespeare"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a73522d5542994cef4bc541", "target_answer": "The Daily Stormer", "correct_answers": ["526"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab3a83d5542992ade7c6e08", "target_answer": "Dallas Cowboys", "correct_answers": ["The Daily Stormer"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab84d5a55429916710eb028", "target_answer": "Liberal \"Venstre\" party", "correct_answers": ["Dallas Cowboys"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7f57a45542992097ad2f29", "target_answer": "Mineola, New York", "correct_answers": ["Liberal \"Venstre\" party"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae764a85542997b22f6a720", "target_answer": "Ride a Wild Pony", "correct_answers": ["Mineola, New York"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7b1023554299042af8f6c2", "target_answer": "Critics' Choice Television Award for Best Supporting Actress in a Comedy Series", "correct_answers": ["Ride a Wild Pony"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a80707e5542992bc0c4a70e", "target_answer": "Shooter Jennings", "correct_answers": ["Critics' Choice Television Award for Best Supporting Actress in a Comedy Series"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8e16a5554299068b959e58", "target_answer": "motion picture producer", "correct_answers": ["Shooter Jennings"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a875cd65542996e4f30879d", "target_answer": "Ernst Willi Messerschmid", "correct_answers": ["motion picture producer"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a78d16455429974737f78bb", "target_answer": "Commanding General", "correct_answers": ["Ernst Willi Messerschmid"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a895f6155429946c8d6e914", "target_answer": "Mika Salo", "correct_answers": ["Commanding General"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a84f8555542997175ce1f3a", "target_answer": "2.3 million pesos", "correct_answers": ["Mika Salo"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab31adc554299233954ff0a", "target_answer": "no", "correct_answers": ["2.3 million pesos"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ac3ba1855429939154138f3", "target_answer": "Monsters, Inc.", "correct_answers": ["no"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7380b955429908901be2d4", "target_answer": "2000 Summer Olympic Games", "correct_answers": ["Monsters, Inc."], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8f92fb55429918e830d271", "target_answer": "Israeli Declaration of Independence", "correct_answers": ["2000 Summer Olympic Games"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a88082055429938390d3ed2", "target_answer": "son", "correct_answers": ["Israeli Declaration of Independence"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7d22dc5542995ed0d16600", "target_answer": "between 1987 and 2010", "correct_answers": ["son"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae291bb5542996483e649f6", "target_answer": "God Lives Underwater", "correct_answers": ["between 1987 and 2010"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5abfde655542997719eab6f2", "target_answer": "Hall & Oates", "correct_answers": ["God Lives Underwater"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae67fad5542991bbc976100", "target_answer": "Anthony Lynn", "correct_answers": ["Hall & Oates"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab2a1f35542997061209677", "target_answer": "Can't Stop", "correct_answers": ["Anthony Lynn"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a74ab6055429916b01641b9", "target_answer": "American", "correct_answers": ["Can't Stop"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8b97485542995d1e6f140f", "target_answer": "people arrived in the European Union", "correct_answers": ["American"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5adcdc6c5542992c1e3a2437", "target_answer": "Anahí", "correct_answers": ["people arrived in the European Union"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae73ddb554299572ea5478d", "target_answer": "film director", "correct_answers": ["Anahí"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ade618e554299728e26c700", "target_answer": "Unchained Memories", "correct_answers": ["film director"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a76404b5542994ccc91873d", "target_answer": "Metropolitan Cathedral Church and Basilica of Saint Chad", "correct_answers": ["Unchained Memories"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ac44b47554299194317396c", "target_answer": "Satchmo", "correct_answers": ["Metropolitan Cathedral Church and Basilica of Saint Chad"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ac27afa5542990b17b153b5", "target_answer": "Kowloon, Hong Kong, and Ratingen (near Düsseldorf), Germany.", "correct_answers": ["Satchmo"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ac2c4fe554299218029db3b", "target_answer": "Germany and other parts of Central Europe", "correct_answers": ["Kowloon, Hong Kong, and Ratingen (near Düsseldorf), Germany."], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae49b705542995ad6573dbc", "target_answer": "1902", "correct_answers": ["Germany and other parts of Central Europe"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae5fc345542993aec5ec1f8", "target_answer": "England", "correct_answers": ["1902"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8d651955429941ae14dfaf", "target_answer": "10 Years", "correct_answers": ["England"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a839cb9554299123d8c2169", "target_answer": "Lydia Davis", "correct_answers": ["10 Years"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5adbe1b355429944faac23a0", "target_answer": "Rowan Blanchard", "correct_answers": ["Lydia Davis"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ac29cf8554299218029dac2", "target_answer": "Washington Huskies", "correct_answers": ["Rowan Blanchard"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae21ef35542994d89d5b35d", "target_answer": "Interstate 22", "correct_answers": ["Washington Huskies"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae1ebf95542997283cd22f2", "target_answer": "Jay Schottenstein", "correct_answers": ["Interstate 22"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8b98665542995d1e6f1413", "target_answer": "Louisiana Tech", "correct_answers": ["Jay Schottenstein"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae3d67f5542992f92d8238f", "target_answer": "New York", "correct_answers": ["Louisiana Tech"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8cb4b2554299585d9e372a", "target_answer": "Dark Heresy", "correct_answers": ["New York"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae30aa05542992decbdcdd7", "target_answer": "24", "correct_answers": ["Dark Heresy"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5adcaa7f5542990d50227cdb", "target_answer": "the summer solstice", "correct_answers": ["24"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8d40715542994ba4e3dc3a", "target_answer": "June 22, 1953", "correct_answers": ["the summer solstice"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae4f2595542990ba0bbb1a8", "target_answer": "18 November", "correct_answers": ["June 22, 1953"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ac507725542994611c8b32a", "target_answer": "more than four and a half million people", "correct_answers": ["18 November"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8f5bb45542992414482a77", "target_answer": "Rio Gavin Ferdinand", "correct_answers": ["more than four and a half million people"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae1f2d4554299234fd04358", "target_answer": "Life Is a Minestrone", "correct_answers": ["Rio Gavin Ferdinand"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae2fca555429928c423958a", "target_answer": "Saul og David", "correct_answers": ["Life Is a Minestrone"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5adc0f8d55429947ff1738ef", "target_answer": "poet and novelist", "correct_answers": ["Saul og David"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5add64065542995b365fab25", "target_answer": "Jim Kelly", "correct_answers": ["poet and novelist"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7d26bd554299452d57bb28", "target_answer": "four", "correct_answers": ["Jim Kelly"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5abba581554299642a094af9", "target_answer": "German", "correct_answers": ["four"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7f89c75542994857a76775", "target_answer": "1945", "correct_answers": ["German"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae531695542990ba0bbb1fb", "target_answer": "Lev Yashin", "correct_answers": ["1945"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8d5f16554299585d9e37c5", "target_answer": "John McClane", "correct_answers": ["Lev Yashin"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ade1f1c55429939a52fe82d", "target_answer": "Gian Carlo Menotti", "correct_answers": ["John McClane"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a70f4c45542994082a3e437", "target_answer": "Orlando International Airport", "correct_answers": ["Gian Carlo Menotti"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8a07af55429970aeb70222", "target_answer": "during the sixth season of \"Shark Tank\".", "correct_answers": ["Orlando International Airport"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5abd332e5542993062266bdd", "target_answer": "19408", "correct_answers": ["during the sixth season of \"Shark Tank\"."], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae4869755429970de88d99a", "target_answer": "Eve Hewson", "correct_answers": ["19408"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8d841955429941ae14dfe6", "target_answer": "no", "correct_answers": ["Eve Hewson"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a87c0945542996e4f30890b", "target_answer": "musical", "correct_answers": ["no"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8a9bc15542996c9b8d5f36", "target_answer": "Samuel Francis Du Pont.", "correct_answers": ["musical"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5adc93a4554299438c868e01", "target_answer": "Sizzurp", "correct_answers": ["Samuel Francis Du Pont."], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae564a155429960a22e02e4", "target_answer": "the Ruul", "correct_answers": ["Sizzurp"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab56b9b5542997d4ad1f113", "target_answer": "Verdi", "correct_answers": ["the Ruul"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a74d9c555429929fddd84fb", "target_answer": "3D computer-animated musical fantasy-adventure film", "correct_answers": ["Verdi"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8af56855429950cd6afc2f", "target_answer": "Princes Park", "correct_answers": ["3D computer-animated musical fantasy-adventure film"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab3c470554299233954ffa1", "target_answer": "3D computer-animated comedy", "correct_answers": ["Princes Park"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae20c465542997283cd236a", "target_answer": "KBS2", "correct_answers": ["3D computer-animated comedy"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab5b701554299637185c5e7", "target_answer": "city of Springfield, Massachusetts", "correct_answers": ["KBS2"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae829ea5542997ec2727738", "target_answer": "1844", "correct_answers": ["city of Springfield, Massachusetts"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ac546975542993e66e8229a", "target_answer": "Taoiseach of Ireland", "correct_answers": ["1844"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a81a63c5542990a1d231e45", "target_answer": "Dead Poets Society", "correct_answers": ["Taoiseach of Ireland"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a72af155542992359bc316c", "target_answer": "Bill Walton", "correct_answers": ["Dead Poets Society"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5abd6f0855429933744ab7d5", "target_answer": "centre-back", "correct_answers": ["Bill Walton"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5adefcf15542995ec70e8f4c", "target_answer": "25 million", "correct_answers": ["centre-back"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae15ae25542990adbacf767", "target_answer": "The Innocence Mission", "correct_answers": ["25 million"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5abbf43d5542993f40c73c2f", "target_answer": "Sonya Scarlet", "correct_answers": ["The Innocence Mission"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7ab1b055429927d897bef4", "target_answer": "Ferdi Taygan", "correct_answers": ["Sonya Scarlet"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7d2afd5542995f4f402221", "target_answer": "Gary Lightbody", "correct_answers": ["Ferdi Taygan"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a84c0765542991dd0999dd9", "target_answer": "Ben Savage", "correct_answers": ["Gary Lightbody"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae0bc185542993d6555ec29", "target_answer": "September 13, 1994", "correct_answers": ["Ben Savage"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7cef5d55429909bec768ac", "target_answer": "Debbie Isitt", "correct_answers": ["September 13, 1994"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a899f4955429946c8d6e971", "target_answer": "Guadalupe \"Lupe\" Ontiveros", "correct_answers": ["Debbie Isitt"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8ed7b455429917b4a5bdd1", "target_answer": "theater and film", "correct_answers": ["Guadalupe \"Lupe\" Ontiveros"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a835a265542992ef85e2281", "target_answer": "Minnesota's 8th congressional district", "correct_answers": ["theater and film"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8c52685542995e66a475bb", "target_answer": "850 m", "correct_answers": ["Minnesota's 8th congressional district"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab4e48655429942dd415f9c", "target_answer": "48,982", "correct_answers": ["850 m"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae67dba55429908198fa5f0", "target_answer": "Norwegian Cruise Line Holdings Ltd.", "correct_answers": ["48,982"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae13c5155429920d5234336", "target_answer": "yes", "correct_answers": ["Norwegian Cruise Line Holdings Ltd."], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab2b7405542991669774069", "target_answer": "Newport County", "correct_answers": ["yes"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab1c693554299722f9b4c66", "target_answer": "11 November 1869", "correct_answers": ["Newport County"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae692e35542996d980e7c0e", "target_answer": "6,241", "correct_answers": ["11 November 1869"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7f74975542992097ad2f77", "target_answer": "Debbie Reynolds", "correct_answers": ["6,241"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7e30b255429934daa2fbeb", "target_answer": "Owen Wister", "correct_answers": ["Debbie Reynolds"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7ca95b55429935c91b5287", "target_answer": "Topeka", "correct_answers": ["Owen Wister"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5abfa18f5542990832d3a176", "target_answer": "Peter Nowalk", "correct_answers": ["Topeka"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8a39b355429930ff3c0d13", "target_answer": "in 1877", "correct_answers": ["Peter Nowalk"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab2958c554299449642c912", "target_answer": "7 October 1978", "correct_answers": ["in 1877"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae7eaf65542994a481bbe1d", "target_answer": "Nova Scotia", "correct_answers": ["7 October 1978"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5aba916c55429901930fa83b", "target_answer": "Joseph E. Grosberg", "correct_answers": ["Nova Scotia"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ac0d981554299012d1db646", "target_answer": "Livin' la Vida Loca", "correct_answers": ["Joseph E. Grosberg"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ade653f55429975fa854ebb", "target_answer": "Kentucky, Virginia, and Tennessee", "correct_answers": ["Livin' la Vida Loca"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab54e145542992aa134a2a1", "target_answer": "building", "correct_answers": ["Kentucky, Virginia, and Tennessee"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8518a75542994c784ddaf7", "target_answer": "Martin O'Neill", "correct_answers": ["building"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ac175635542994ab5c67d4b", "target_answer": "4", "correct_answers": ["Martin O'Neill"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5abd889f55429924427fd046", "target_answer": "The Farming Game", "correct_answers": ["4"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a772c925542993735360208", "target_answer": "Field Marshal Edmund Henry Hynman Allenby", "correct_answers": ["The Farming Game"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab492155542991779162ce3", "target_answer": "Book of Judges", "correct_answers": ["Field Marshal Edmund Henry Hynman Allenby"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae5ef105542996de7b71a72", "target_answer": "Art of Dying", "correct_answers": ["Book of Judges"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8ad2f3554299515336138d", "target_answer": "Juventus Football Club", "correct_answers": ["Art of Dying"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7d07a455429907fabef0ae", "target_answer": "Woody Woodpecker", "correct_answers": ["Juventus Football Club"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5aba89d555429901930fa816", "target_answer": "2012", "correct_answers": ["Woody Woodpecker"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8c7623554299653c1aa07a", "target_answer": "Chris Weinke", "correct_answers": ["2012"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a79ecd05542996c55b2dca1", "target_answer": "Dziga Vertov", "correct_answers": ["Chris Weinke"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5adec4695542992fa25da83a", "target_answer": "The Appalachian Mountains", "correct_answers": ["Dziga Vertov"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae608f2554299546bf83026", "target_answer": "Julie Kavner", "correct_answers": ["The Appalachian Mountains"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5abfd5c45542994516f4550e", "target_answer": "Adelaide", "correct_answers": ["Julie Kavner"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5adce12e5542990d50227d4f", "target_answer": "yes", "correct_answers": ["Adelaide"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a851b0d5542997175ce1f7f", "target_answer": "I'm Shipping Up to Boston", "correct_answers": ["yes"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae164cf5542997b2ef7d1cd", "target_answer": "marker pen", "correct_answers": ["I'm Shipping Up to Boston"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8c493e554299653c1aa020", "target_answer": "Sim Theme Park", "correct_answers": ["marker pen"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a89dbec554299669944a5d6", "target_answer": "Southern State Parkway", "correct_answers": ["Sim Theme Park"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae1389655429901ffe4ae05", "target_answer": "The Sound of Music", "correct_answers": ["Southern State Parkway"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5adc6a3b55429947ff173953", "target_answer": "1905", "correct_answers": ["The Sound of Music"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ac02880554299012d1db5c0", "target_answer": "2015 FedEx Cup", "correct_answers": ["1905"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5aba0c2655429955dce3edb7", "target_answer": "Rajmund Roman Thierry Polański", "correct_answers": ["2015 FedEx Cup"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5add44c25542997545bbbd0a", "target_answer": "Gulfport, Biloxi", "correct_answers": ["Rajmund Roman Thierry Polański"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7616755542992d0ec06028", "target_answer": "Bruce R. Cook", "correct_answers": ["Gulfport, Biloxi"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5adcd1665542994d58a2f6e6", "target_answer": "Mimosa", "correct_answers": ["Bruce R. Cook"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae4be5455429960a22e019c", "target_answer": "2011", "correct_answers": ["Mimosa"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae3263455429928c4239634", "target_answer": "Icahn Enterprises L.P.", "correct_answers": ["2011"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ac05fb55542997d64295a0b", "target_answer": "in 1896", "correct_answers": ["Icahn Enterprises L.P."], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae1f596554299234fd04372", "target_answer": "Donatos", "correct_answers": ["in 1896"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8f47785542997ba9cb3217", "target_answer": "Khan Kluay", "correct_answers": ["Donatos"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a74bc1555429929fddd84dd", "target_answer": "8,211 at the 2010 census", "correct_answers": ["Khan Kluay"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a88e605554299206df2b39c", "target_answer": "Finnmark county,", "correct_answers": ["8,211 at the 2010 census"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab57fc4554299488d4d99c0", "target_answer": "Microsoft Office", "correct_answers": ["Finnmark county,"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7b48b15542995eb53be8eb", "target_answer": "34 days", "correct_answers": ["Microsoft Office"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8933fe55429951533612df", "target_answer": "100 Greatest Artists of Hard Rock", "correct_answers": ["34 days"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a80e4b255429938b6142239", "target_answer": "Belgian", "correct_answers": ["100 Greatest Artists of Hard Rock"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5adc8cb45542994d58a2f651", "target_answer": "December 23, 1977", "correct_answers": ["Belgian"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5abde0655542991f6610608b", "target_answer": "432 Park Avenue", "correct_answers": ["December 23, 1977"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae26af3554299492dc91c1c", "target_answer": "Duane \"Dewy\" Clarridge", "correct_answers": ["432 Park Avenue"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a73471a5542991f9a20c6d7", "target_answer": "yes", "correct_answers": ["Duane \"Dewy\" Clarridge"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a877df15542993e715abf7a", "target_answer": "fifty-word", "correct_answers": ["yes"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7e4414554299495941995c", "target_answer": "Hamlet", "correct_answers": ["fifty-word"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5adf227a5542992d7e9f92a6", "target_answer": "a pair of dice", "correct_answers": ["Hamlet"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7f8b8c5542995d8a8ddea1", "target_answer": "Max Kellerman", "correct_answers": ["a pair of dice"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8d8f77554299068b959d3e", "target_answer": "Carleton University", "correct_answers": ["Max Kellerman"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a84ee4c5542997175ce1f2b", "target_answer": "the flags", "correct_answers": ["Carleton University"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ac1a3fa5542991316484b7d", "target_answer": "Sparafucile", "correct_answers": ["the flags"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8a1a9c5542992d82986ebb", "target_answer": "Love at First Sting", "correct_answers": ["Sparafucile"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8ccea555429941ae14deeb", "target_answer": "Marvin John Heemeyer", "correct_answers": ["Love at First Sting"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae1b8075542997283cd2262", "target_answer": "Crocosmia", "correct_answers": ["Marvin John Heemeyer"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab56f3e5542992aa134a317", "target_answer": "8 November 1978", "correct_answers": ["Crocosmia"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8d40585542994ba4e3dc39", "target_answer": "Anaheim", "correct_answers": ["8 November 1978"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae1a8c05542997f29b3c0ec", "target_answer": "Thomas Jefferson", "correct_answers": ["Anaheim"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab4b7d15542996a3a969fbc", "target_answer": "Pigman's Bar-B-Que", "correct_answers": ["Thomas Jefferson"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a89fc305542993b751ca9dc", "target_answer": "Thomas Warburton", "correct_answers": ["Pigman's Bar-B-Que"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae164685542997b2ef7d1cb", "target_answer": "American", "correct_answers": ["Thomas Warburton"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a84b8555542991dd0999db2", "target_answer": "War of 1870", "correct_answers": ["American"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab327bc554299233954ff33", "target_answer": "Crips", "correct_answers": ["War of 1870"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a82f05255429966c78a6aa2", "target_answer": "alcoholic drinks", "correct_answers": ["Crips"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae0818e55429924de1b70e9", "target_answer": "Willem Dafoe", "correct_answers": ["alcoholic drinks"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5adc760c5542994650320d11", "target_answer": "Rick Ross", "correct_answers": ["Willem Dafoe"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7fa97d5542994857a767a9", "target_answer": "heads north", "correct_answers": ["Rick Ross"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab815865542995dae37ea2d", "target_answer": "27 November 1956", "correct_answers": ["heads north"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7a3a2a5542996c55b2dd41", "target_answer": "1941", "correct_answers": ["27 November 1956"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab5487b554299494045ef68", "target_answer": "British Labour Party", "correct_answers": ["1941"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8c51f0554299240d9c2111", "target_answer": "1994", "correct_answers": ["British Labour Party"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a84c0885542994c784dda28", "target_answer": "Oliver Parker", "correct_answers": ["1994"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a89a74e554299669944a562", "target_answer": "Empire of Japan", "correct_answers": ["Oliver Parker"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a83c9445542992ef85e2360", "target_answer": "94", "correct_answers": ["Empire of Japan"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ac3ce74554299204fd21e71", "target_answer": "June 2007", "correct_answers": ["94"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5abea85f5542990832d3a070", "target_answer": "no", "correct_answers": ["June 2007"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7f75e95542992e7d278d09", "target_answer": "the Federal Bureau of Prisons", "correct_answers": ["no"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8b19f45542996c9b8d5f9e", "target_answer": "1885", "correct_answers": ["the Federal Bureau of Prisons"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab5e4e15542997d4ad1f229", "target_answer": "Alfonso Cuarón", "correct_answers": ["1885"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7736d85542994aec3b722b", "target_answer": "June 11, 1986", "correct_answers": ["Alfonso Cuarón"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a77ba6c55429967ab10524c", "target_answer": "Curtis Martin", "correct_answers": ["June 11, 1986"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5adf9ea05542992d7e9f93bf", "target_answer": "family law attorney", "correct_answers": ["Curtis Martin"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5abbe188554299642a094ba0", "target_answer": "Danny Elfman", "correct_answers": ["family law attorney"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8319b255429940e5e1a960", "target_answer": "yes", "correct_answers": ["Danny Elfman"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ac21ac05542991316484bee", "target_answer": "Nature's Symphony in 432", "correct_answers": ["yes"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a721bbc55429971e9dc9279", "target_answer": "Jimmy Ellis", "correct_answers": ["Nature's Symphony in 432"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab915ad55429919ba4e239c", "target_answer": "Danish international pharmaceutical company", "correct_answers": ["Jimmy Ellis"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab250b9554299722f9b4cd9", "target_answer": "1958 Walt Disney Western adventure film", "correct_answers": ["Danish international pharmaceutical company"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a886211554299206df2b24a", "target_answer": "The Seven Days Battles", "correct_answers": ["1958 Walt Disney Western adventure film"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7633ad5542992db9473741", "target_answer": "Adelaide Laetitia", "correct_answers": ["The Seven Days Battles"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab34a76554299233954ff3f", "target_answer": "April 20, 1946", "correct_answers": ["Adelaide Laetitia"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab204795542993be8fa98ad", "target_answer": "Hampton's hump and Hampton's line", "correct_answers": ["April 20, 1946"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a87f3cb5542994846c1ce03", "target_answer": "Y'all", "correct_answers": ["Hampton's hump and Hampton's line"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5abc805a554299658360045b", "target_answer": "yes", "correct_answers": ["Y'all"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a866c04554299211dda2b25", "target_answer": "Bourbon County", "correct_answers": ["yes"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab42b8955429942dd415ea6", "target_answer": "born October 25, 1931", "correct_answers": ["Bourbon County"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ac4920d5542996feb3fe8d3", "target_answer": "Indiana", "correct_answers": ["born October 25, 1931"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a90991d5542990a9849366b", "target_answer": "Tony Manero", "correct_answers": ["Indiana"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8ff83c55429916514e73f3", "target_answer": "14th Street", "correct_answers": ["Tony Manero"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab8750255429934fafe6dd1", "target_answer": "hydrogenated", "correct_answers": ["14th Street"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8f03855542997ba9cb3186", "target_answer": "79 AD", "correct_answers": ["hydrogenated"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab3fa095542992ade7c6f0a", "target_answer": "2007 New England Patriots", "correct_answers": ["79 AD"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5aded04755429975fa854fa7", "target_answer": "Howard Elliott Ashman", "correct_answers": ["2007 New England Patriots"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7292385542994cef4bc342", "target_answer": "Anderson Silva", "correct_answers": ["Howard Elliott Ashman"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae14b5c55429920d52343aa", "target_answer": "Mitsubishi", "correct_answers": ["Anderson Silva"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a74581555429979e2882912", "target_answer": "Jonathan Howsmon Davis", "correct_answers": ["Mitsubishi"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae4b5935542995ad6573e27", "target_answer": "Harlem", "correct_answers": ["Jonathan Howsmon Davis"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ac4d717554299076e296e0e", "target_answer": "Zero Mostel", "correct_answers": ["Harlem"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5abe436455429976d4830ac6", "target_answer": "John Lennon/Plastic Ono Band", "correct_answers": ["Zero Mostel"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7a954855429941d65f26cd", "target_answer": "Honey Nut Cheerios", "correct_answers": ["John Lennon/Plastic Ono Band"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a90b3c65542990a984936b7", "target_answer": "Firestorm", "correct_answers": ["Honey Nut Cheerios"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5abb7ff15542996cc5e4a015", "target_answer": "John Charles Cutler", "correct_answers": ["Firestorm"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a84c4bb5542991dd0999dec", "target_answer": "Spurs", "correct_answers": ["John Charles Cutler"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab48ec25542991779162cdc", "target_answer": "Conservative", "correct_answers": ["Spurs"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae35b035542992e3233c3ae", "target_answer": "yes", "correct_answers": ["Conservative"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7f010955429934daa2fc8b", "target_answer": "Miranda Lambert", "correct_answers": ["yes"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8ce9ed554299585d9e3764", "target_answer": "9 November 1967", "correct_answers": ["Miranda Lambert"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ac285335542996773102552", "target_answer": "poi, Kalua pig, poke, lomi salmon, opihi, haupia", "correct_answers": ["9 November 1967"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5adbcc085542996e6852523c", "target_answer": "the Oklahoma Sooners", "correct_answers": ["poi, Kalua pig, poke, lomi salmon, opihi, haupia"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8c2adc554299240d9c20a9", "target_answer": "1934", "correct_answers": ["the Oklahoma Sooners"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae731c4554299572ea54781", "target_answer": "821", "correct_answers": ["1934"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a77152355429966f1a36c2e", "target_answer": "Economic Cooperation Organisation", "correct_answers": ["821"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae71d2d554299572ea546f7", "target_answer": "Dodge Memorial Park", "correct_answers": ["Economic Cooperation Organisation"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7b1d3b5542992d025e677a", "target_answer": "Samoa", "correct_answers": ["Dodge Memorial Park"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5abaf3195542996cc5e49f2c", "target_answer": "19 November 1786", "correct_answers": ["Samoa"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ac2768d5542990b17b153a8", "target_answer": "Robert Michael John Fox", "correct_answers": ["19 November 1786"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ac2ad5355429921a00ab02c", "target_answer": "1990", "correct_answers": ["Robert Michael John Fox"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab201765542993be8fa98a4", "target_answer": "no", "correct_answers": ["1990"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5adf9d135542995534e8c817", "target_answer": "25 million", "correct_answers": ["no"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ac3e5de554299204fd21ebc", "target_answer": "2004 Paris Motor Show", "correct_answers": ["25 million"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5adf67e95542993344016c72", "target_answer": "New Orleans", "correct_answers": ["2004 Paris Motor Show"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ade982f554299728e26c753", "target_answer": "Max Martin, Savan Kotecha and Ilya Salmanzadeh", "correct_answers": ["New Orleans"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab96ab755429970cfb8eacd", "target_answer": "March 31, 1944", "correct_answers": ["Max Martin, Savan Kotecha and Ilya Salmanzadeh"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5adc99d95542994ed6169baa", "target_answer": "Mosè in Egitto", "correct_answers": ["March 31, 1944"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8534305542997b5ce3ffc4", "target_answer": "Myles na gCopaleen", "correct_answers": ["Mosè in Egitto"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5abdc8e755429965af743e3f", "target_answer": "Division of Sydney", "correct_answers": ["Myles na gCopaleen"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ac3e01d5542997ea680c969", "target_answer": "Paul Hindemith", "correct_answers": ["Division of Sydney"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a747a9a55429929fddd8444", "target_answer": "four sections", "correct_answers": ["Paul Hindemith"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5addc2b75542997dc7907017", "target_answer": "leg injury", "correct_answers": ["four sections"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7b4073554299042af8f733", "target_answer": "June", "correct_answers": ["leg injury"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5abdf72055429976d4830a37", "target_answer": "Timothy Simon \"Tim\" Roth", "correct_answers": ["June"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a778a165542995d831811a9", "target_answer": "Scotland", "correct_answers": ["Timothy Simon \"Tim\" Roth"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5abde4595542991f66106095", "target_answer": "Boston and Maine Railroad's Southern Division", "correct_answers": ["Scotland"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae74818554299572ea547ad", "target_answer": "35,402", "correct_answers": ["Boston and Maine Railroad's Southern Division"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5adfa22655429942ec259ac4", "target_answer": "The Company", "correct_answers": ["35,402"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7228f655429971e9dc9312", "target_answer": "John Sullivan", "correct_answers": ["The Company"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab430f655429942dd415eca", "target_answer": "Leucippus", "correct_answers": ["John Sullivan"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a75436155429974ef308cbc", "target_answer": "Harmony Korine", "correct_answers": ["Leucippus"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a86141f5542996432c571a5", "target_answer": "The Beaver and Erie Canal", "correct_answers": ["Harmony Korine"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a734e6d5542994cef4bc528", "target_answer": "1983 Summer Universiade", "correct_answers": ["The Beaver and Erie Canal"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ac3dc9e5542997ea680c950", "target_answer": "1972", "correct_answers": ["1983 Summer Universiade"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5adf8c375542995534e8c7dd", "target_answer": "Tonde Burin", "correct_answers": ["1972"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5adfb698554299603e418385", "target_answer": "liberal conservative", "correct_answers": ["Tonde Burin"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae5faf555429929b0807a4c", "target_answer": "All That", "correct_answers": ["liberal conservative"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a84c66a5542994c784dda45", "target_answer": "yes", "correct_answers": ["All That"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab85a1155429934fafe6d7c", "target_answer": "The Rebirth", "correct_answers": ["yes"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae2e8e05542991a06ce98fb", "target_answer": "June 12, 2017", "correct_answers": ["The Rebirth"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ac2a35055429967731025ce", "target_answer": "yes", "correct_answers": ["June 12, 2017"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8e36835542995085b373e2", "target_answer": "Spyker F1", "correct_answers": ["yes"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab3c270554299233954ff9e", "target_answer": "320 years", "correct_answers": ["Spyker F1"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5adce88b5542992c1e3a249a", "target_answer": "City of Westminster, London", "correct_answers": ["320 years"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae65e6a5542996d980e7b1d", "target_answer": "Faby Apache", "correct_answers": ["City of Westminster, London"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ac4a7615542996feb3fe92a", "target_answer": "documentary film", "correct_answers": ["Faby Apache"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab28120554299449642c8cc", "target_answer": "saint", "correct_answers": ["documentary film"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab4313a554299233955004c", "target_answer": "Albuquerque, New Mexico", "correct_answers": ["saint"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab682dc55429954757d3318", "target_answer": "Melbourne Storm", "correct_answers": ["Albuquerque, New Mexico"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5adf86355542993344016cbd", "target_answer": "Wanda", "correct_answers": ["Melbourne Storm"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab7a1f65542991d3222378f", "target_answer": "Levon Helm", "correct_answers": ["Wanda"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ac24a035542992f1f2b3832", "target_answer": "Arvo Pärt", "correct_answers": ["Levon Helm"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8f91c755429918e830d26c", "target_answer": "Frederick Alexander", "correct_answers": ["Arvo Pärt"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ac4db1d554299076e296e1a", "target_answer": "Daisy Chainsaw", "correct_answers": ["Frederick Alexander"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a77474855429972597f14e4", "target_answer": "Pavel Sergeyevich Alexandrov", "correct_answers": ["Daisy Chainsaw"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a717d4c5542994082a3e854", "target_answer": "Computech", "correct_answers": ["Pavel Sergeyevich Alexandrov"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae762985542995703ce8c04", "target_answer": "three Macy's stores, Sears, Nordstrom, Bloomingdale's, and Saks Fifth Avenue", "correct_answers": ["Computech"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8c5eca554299240d9c213d", "target_answer": "Chris Gould", "correct_answers": ["three Macy's stores, Sears, Nordstrom, Bloomingdale's, and Saks Fifth Avenue"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a778cae55429949eeb29eeb", "target_answer": "since 2007", "correct_answers": ["Chris Gould"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8af94455429971feec45b6", "target_answer": "Love Actually", "correct_answers": ["since 2007"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ac30a79554299657fa290e2", "target_answer": "Naga Chaitanya", "correct_answers": ["Love Actually"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a74ee175542996c70cfae41", "target_answer": "Philip Morris Glass", "correct_answers": ["Naga Chaitanya"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a76f5b155429972597f1400", "target_answer": "Newfoundland and Labrador", "correct_answers": ["Philip Morris Glass"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5adf9b415542995ec70e904c", "target_answer": "Mani", "correct_answers": ["Newfoundland and Labrador"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5abfdfcb5542997d642958fe", "target_answer": "Vision of the Future", "correct_answers": ["Mani"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7787b655429949eeb29ed3", "target_answer": "Bob Day", "correct_answers": ["Vision of the Future"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a72e4375542992359bc31bf", "target_answer": "Anne Arundel County, Maryland", "correct_answers": ["Bob Day"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae75c6e5542991bbc9761f8", "target_answer": "1776", "correct_answers": ["Anne Arundel County, Maryland"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a75e16055429976ec32bc6a", "target_answer": "Mickey's Christmas Carol", "correct_answers": ["1776"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab82d345542990e739ec854", "target_answer": "The 2018 Texas gubernatorial election", "correct_answers": ["Mickey's Christmas Carol"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7663665542992d0ec060d3", "target_answer": "Elvis' Christmas Album", "correct_answers": ["The 2018 Texas gubernatorial election"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae4094655429970de88d896", "target_answer": "1895", "correct_answers": ["Elvis' Christmas Album"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab42b24554299753aec5a43", "target_answer": "Reichsführer-SS", "correct_answers": ["1895"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab28c89554299340b525513", "target_answer": "no", "correct_answers": ["Reichsführer-SS"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab6bf6d55429953192ad372", "target_answer": "1754", "correct_answers": ["no"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7f35015542992e7d278c8a", "target_answer": "NCAA Division I FBS football", "correct_answers": ["1754"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5abd6bf055429933744ab7c8", "target_answer": "Newport", "correct_answers": ["NCAA Division I FBS football"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae2dd2055429928c423950d", "target_answer": "Best Actor prize", "correct_answers": ["Newport"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ade89d855429975fa854ef7", "target_answer": "the Hanna-Barbera show \"Birdman and the Galaxy Trio.\"", "correct_answers": ["Best Actor prize"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae2075f5542994d89d5b315", "target_answer": "North Dakota", "correct_answers": ["the Hanna-Barbera show \"Birdman and the Galaxy Trio.\""], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae7c2dc5542994a481bbdd3", "target_answer": "American Horror Story", "correct_answers": ["North Dakota"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae1a7c8554299234fd042b0", "target_answer": "Golf Digest", "correct_answers": ["American Horror Story"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7b40cd5542995eb53be8d4", "target_answer": "200,167", "correct_answers": ["Golf Digest"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8ba45b554299240d9c2051", "target_answer": "Mario Lemieux", "correct_answers": ["200,167"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7e08b55542997cc2c474fe", "target_answer": "Texas Longhorns men's basketball team", "correct_answers": ["Mario Lemieux"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ac2cb09554299657fa29066", "target_answer": "Liberal Party", "correct_answers": ["Texas Longhorns men's basketball team"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8d7f2b554299068b959d0c", "target_answer": "Naomi Wallace", "correct_answers": ["Liberal Party"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8313a755429954d2e2ec06", "target_answer": "\"I'm Gonna Git You Sucka\"", "correct_answers": ["Naomi Wallace"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5adcc6765542994d58a2f6c9", "target_answer": "Brunswick Golden Isles Airport", "correct_answers": ["\"I'm Gonna Git You Sucka\""], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5adf099a5542992d7e9f927f", "target_answer": "Victorian England", "correct_answers": ["Brunswick Golden Isles Airport"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8f141e55429918e830d181", "target_answer": "no", "correct_answers": ["Victorian England"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ac2927b5542996366519a17", "target_answer": "BBC", "correct_answers": ["no"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab71f7d554299110f219ab9", "target_answer": "yes", "correct_answers": ["BBC"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5aba74ad55429955dce3ee35", "target_answer": "Nye County", "correct_answers": ["yes"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8d4fbf5542994ba4e3dc68", "target_answer": "The Itchy & Scratchy Show", "correct_answers": ["Nye County"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae75a4c5542997b22f6a6f1", "target_answer": "yes", "correct_answers": ["The Itchy & Scratchy Show"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ac3b4e0554299741d48a2ec", "target_answer": "Idina Kim Menzel", "correct_answers": ["yes"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ac2660d55429951e9e685a1", "target_answer": "\"Lonely\"", "correct_answers": ["Idina Kim Menzel"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a77d2d25542992a6e59dfe2", "target_answer": "March 30, 2025", "correct_answers": ["\"Lonely\""], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5abb11c15542992ccd8e7ef8", "target_answer": "Pac-12", "correct_answers": ["March 30, 2025"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae6638555429908198fa5ba", "target_answer": "Carl August Nielsen", "correct_answers": ["Pac-12"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a77510b5542994aec3b728b", "target_answer": "230", "correct_answers": ["Carl August Nielsen"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a887bc0554299206df2b2b6", "target_answer": "Max Rufus Mosley", "correct_answers": ["230"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a78f26055429970f5fffdeb", "target_answer": "Kanichee Mine", "correct_answers": ["Max Rufus Mosley"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a739323554299623ed4abff", "target_answer": "2013", "correct_answers": ["Kanichee Mine"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ac50dd05542994611c8b343", "target_answer": "Manchester Victoria station", "correct_answers": ["2013"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8ece2e5542995085b37497", "target_answer": "the deadpan sketch group", "correct_answers": ["Manchester Victoria station"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae375955542990afbd1e15d", "target_answer": "Jackson", "correct_answers": ["the deadpan sketch group"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5adf6aca5542993344016c8d", "target_answer": "34th", "correct_answers": ["Jackson"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8459aa5542996488c2e51e", "target_answer": "the \"second city\" of Oahu", "correct_answers": ["34th"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab8a7f65542991b5579efca", "target_answer": "from 1993 to 1996", "correct_answers": ["the \"second city\" of Oahu"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5adf9f6c5542992d7e9f93c2", "target_answer": "The Thomas Crown Affair", "correct_answers": ["from 1993 to 1996"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae74fb95542991e8301cc57", "target_answer": "McClellan–Palomar Airport", "correct_answers": ["The Thomas Crown Affair"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae28f43554299492dc91c2f", "target_answer": "pop music and popular culture", "correct_answers": ["McClellan–Palomar Airport"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab6bb575542995eadef0088", "target_answer": "UFC Fight Pass", "correct_answers": ["pop music and popular culture"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8307c055429966c78a6af9", "target_answer": "House of Habsburg-Lorraine", "correct_answers": ["UFC Fight Pass"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ac31a73554299741d48a1e9", "target_answer": "most awarded female act of all-time", "correct_answers": ["House of Habsburg-Lorraine"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae7b001554299540e5a5645", "target_answer": "Tom Hiddleston", "correct_answers": ["most awarded female act of all-time"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a77519c55429972597f14fa", "target_answer": "Strange Synergy", "correct_answers": ["Tom Hiddleston"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a75e7b255429976ec32bc95", "target_answer": "Mark Dayton", "correct_answers": ["Strange Synergy"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab47e0a5542990594ba9c32", "target_answer": "Brent Robert Barry", "correct_answers": ["Mark Dayton"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab5fcae554299110f2199ad", "target_answer": "51,271", "correct_answers": ["Brent Robert Barry"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8d7b1755429941ae14dfc6", "target_answer": "German", "correct_answers": ["51,271"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae60db1554299546bf83041", "target_answer": "729 at the 2010 census", "correct_answers": ["German"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ac3d9135542995c82c4ac4c", "target_answer": "Hohenstaufen", "correct_answers": ["729 at the 2010 census"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab26a4b55429970612095fc", "target_answer": "youngest person to become a national transgender figure", "correct_answers": ["Hohenstaufen"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a738a5955429908901be2f6", "target_answer": "reward", "correct_answers": ["youngest person to become a national transgender figure"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a73d951554299623ed4ac77", "target_answer": "hardcore pornography", "correct_answers": ["reward"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8708ba55429960ec39b701", "target_answer": "2 February 1455", "correct_answers": ["hardcore pornography"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7147fd5542994082a3e758", "target_answer": "plants", "correct_answers": ["2 February 1455"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab7f0b9554299366779405d", "target_answer": "cat", "correct_answers": ["plants"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ade0fbb5542995b365fabfb", "target_answer": "Rumi (30 September 1207 – 17 December 1273), was a 13th-century Persian Sunni Muslim poet", "correct_answers": ["cat"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7324205542994cef4bc478", "target_answer": "Stephen King", "correct_answers": ["Rumi (30 September 1207 – 17 December 1273), was a 13th-century Persian Sunni Muslim poet"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a80cddd554299260e20a169", "target_answer": "Georg Arthur Jensen", "correct_answers": ["Stephen King"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8f15d2554299458435d551", "target_answer": "no", "correct_answers": ["Georg Arthur Jensen"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ac2dc4b55429921a00ab083", "target_answer": "Virginia", "correct_answers": ["no"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a845d735542996488c2e52e", "target_answer": "Castle of Frankenstein", "correct_answers": ["Virginia"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a835a7b554299123d8c20fc", "target_answer": "EverBank Field", "correct_answers": ["Castle of Frankenstein"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab29e87554299194fa9346e", "target_answer": "American theater producer and director, playwright, screenwriter", "correct_answers": ["EverBank Field"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ade90aa554299728e26c733", "target_answer": "Ateneo de Davao University", "correct_answers": ["American theater producer and director, playwright, screenwriter"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7651825542992d0ec060a3", "target_answer": "Sofia the First", "correct_answers": ["Ateneo de Davao University"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8031c1554299485f598585", "target_answer": "\"Switzerland of England\"", "correct_answers": ["Sofia the First"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a84c89a5542992a431d1a9c", "target_answer": "Anthony Hopkins", "correct_answers": ["\"Switzerland of England\""], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae5f3bb5542996de7b71a7e", "target_answer": "Fujioka, Gunma", "correct_answers": ["Anthony Hopkins"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae4a3265542995ad6573de5", "target_answer": "Flatbush section of Brooklyn, New York City", "correct_answers": ["Fujioka, Gunma"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ade0a275542997545bbbe2d", "target_answer": "The Last of the Mohicans", "correct_answers": ["Flatbush section of Brooklyn, New York City"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae676915542995703ce8b66", "target_answer": "Fort Hood, Texas", "correct_answers": ["The Last of the Mohicans"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8c6ebd5542996e8ac88aa9", "target_answer": "he turned 51, he died of cancer", "correct_answers": ["Fort Hood, Texas"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ac02d59554299294b218f3b", "target_answer": "Unwritten Law", "correct_answers": ["he turned 51, he died of cancer"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7f68365542994857a7672e", "target_answer": "a few minutes", "correct_answers": ["Unwritten Law"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab5c984554299488d4d9a21", "target_answer": "Floyd Mutrux and Colin Escott", "correct_answers": ["a few minutes"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae0b68e55429906c02daafb", "target_answer": "1950", "correct_answers": ["Floyd Mutrux and Colin Escott"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ac52f455542996feb3fea12", "target_answer": "Third Army", "correct_answers": ["1950"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a79257b55429974737f79a7", "target_answer": "Aberdeen Regional Airport", "correct_answers": ["Third Army"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a87ef2f55429938390d3eb9", "target_answer": "Mrs. Eastwood & Company", "correct_answers": ["Aberdeen Regional Airport"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae6911955429908198fa626", "target_answer": "author", "correct_answers": ["Mrs. Eastwood & Company"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a844fd35542990548d0b274", "target_answer": "The Seine Meets Paris", "correct_answers": ["author"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ac11a8d5542992a796dedee", "target_answer": "Summerlin", "correct_answers": ["The Seine Meets Paris"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ac0d83a554299294b219038", "target_answer": "yes", "correct_answers": ["Summerlin"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8c87aa554299653c1aa0ac", "target_answer": "Pittsburgh", "correct_answers": ["yes"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7c4a6455429907fabeef53", "target_answer": "San Marco", "correct_answers": ["Pittsburgh"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a713fb15542994082a3e6f0", "target_answer": "Franz Ferdinand Carl Ludwig Joseph Maria", "correct_answers": ["San Marco"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae0aabc55429945ae9593fe", "target_answer": "Martin Scorsese", "correct_answers": ["Franz Ferdinand Carl Ludwig Joseph Maria"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5adf2d375542993344016c0d", "target_answer": "electromagnetic field", "correct_answers": ["Martin Scorsese"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab81cd955429916710eaff7", "target_answer": "Oakland County", "correct_answers": ["electromagnetic field"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ac11201554299294b21908c", "target_answer": "wrestling", "correct_answers": ["Oakland County"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7b47765542992d025e67d8", "target_answer": "Tamworth", "correct_answers": ["wrestling"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ac43c7b5542997ea680ca34", "target_answer": "City of Westminster", "correct_answers": ["Tamworth"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8ccceb554299653c1aa128", "target_answer": "American family comedy adventure", "correct_answers": ["City of Westminster"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5add84a15542997545bbbd5e", "target_answer": "Girls' Generation", "correct_answers": ["American family comedy adventure"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7c6753554299683c1c62f9", "target_answer": "Oedipus Rex", "correct_answers": ["Girls' Generation"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a72a0be5542992359bc3143", "target_answer": "1864", "correct_answers": ["Oedipus Rex"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae6793e5542991bbc9760e2", "target_answer": "X Ambassadors", "correct_answers": ["1864"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ac0cf0f554299294b219018", "target_answer": "Biola University", "correct_answers": ["X Ambassadors"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8662b955429960ec39b687", "target_answer": "47,818", "correct_answers": ["Biola University"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ac1767a5542994d76dcce48", "target_answer": "Nikolai Trubetzkoy", "correct_answers": ["47,818"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5aba7fd055429955dce3ee5e", "target_answer": "China", "correct_answers": ["Nikolai Trubetzkoy"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ac43e0f554299076e296d8e", "target_answer": "three", "correct_answers": ["China"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae6e36155429908198fa6d3", "target_answer": "Five Summer Stories", "correct_answers": ["three"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a74f3f55542993748c8974b", "target_answer": "Singapore Airlines Limited", "correct_answers": ["Five Summer Stories"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5aba05cb55429939ce03dc56", "target_answer": "the North Atlantic Conference", "correct_answers": ["Singapore Airlines Limited"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab3e45655429976abd1bcd4", "target_answer": "May 5, 1939", "correct_answers": ["the North Atlantic Conference"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ac259585542992f1f2b3868", "target_answer": "The Beagle is a breed of small hound", "correct_answers": ["May 5, 1939"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a88c92d5542993b751ca84e", "target_answer": "role-playing game", "correct_answers": ["The Beagle is a breed of small hound"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab3f6935542992339550019", "target_answer": "Pour le Mérite", "correct_answers": ["role-playing game"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae8295955429952e35eaa6d", "target_answer": "German service cartridge", "correct_answers": ["Pour le Mérite"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab5035b5542996a3a969ff8", "target_answer": "September 13, 1960", "correct_answers": ["German service cartridge"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a73024f5542991f9a20c5fc", "target_answer": "Formula One", "correct_answers": ["September 13, 1960"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ac2570a5542992f1f2b3861", "target_answer": "The Beatles", "correct_answers": ["Formula One"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab5ed505542997d4ad1f255", "target_answer": "Richard Charles Rodgers", "correct_answers": ["The Beatles"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ac05c245542992a796dece5", "target_answer": "Liezel Huber", "correct_answers": ["Richard Charles Rodgers"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a711cb45542994082a3e59f", "target_answer": "Captain Cook's Landing Place", "correct_answers": ["Liezel Huber"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a712c4b5542994082a3e622", "target_answer": "Fifty Pills", "correct_answers": ["Captain Cook's Landing Place"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7fc5875542992e7d278d67", "target_answer": "Houston Rockets", "correct_answers": ["Fifty Pills"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab8723c55429934fafe6dbc", "target_answer": "University of Nevada, Reno", "correct_answers": ["Houston Rockets"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7fb1b25542992097ad2fb2", "target_answer": "Carl Zeiss AG", "correct_answers": ["University of Nevada, Reno"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a879dae5542996e4f308885", "target_answer": "Carlos Santana", "correct_answers": ["Carl Zeiss AG"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae612f3554299546bf83065", "target_answer": "William Turner Walton", "correct_answers": ["Carlos Santana"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a714bb35542994082a3e78f", "target_answer": "Tommy", "correct_answers": ["William Turner Walton"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a753c8c55429916b01642ab", "target_answer": "Grand Garden Special Events Center", "correct_answers": ["Tommy"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5adc905e5542994d58a2f662", "target_answer": "1926", "correct_answers": ["Grand Garden Special Events Center"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7af4bb55429927d897bf1d", "target_answer": "Graffiti", "correct_answers": ["1926"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8eb51655429917b4a5bdb5", "target_answer": "Hong Kong", "correct_answers": ["Graffiti"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7a3a945542996a35c17147", "target_answer": "dancer, actress, choreographer", "correct_answers": ["Hong Kong"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8787305542996e4f30882d", "target_answer": "yes", "correct_answers": ["dancer, actress, choreographer"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ac19ff65542994d76dcce8f", "target_answer": "Yamaha 600 class", "correct_answers": ["yes"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab5f249554299488d4d9a5d", "target_answer": "Jaguar Land Rover", "correct_answers": ["Yamaha 600 class"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5adf5c175542995ec70e8fd0", "target_answer": "Lee County, Mississippi", "correct_answers": ["Jaguar Land Rover"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a89a13c55429946c8d6e97a", "target_answer": "Jean-Marc Vallée", "correct_answers": ["Lee County, Mississippi"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae5fa38554299546bf82ff1", "target_answer": "Cyclic Defrost", "correct_answers": ["Jean-Marc Vallée"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab7f6d35542993667794070", "target_answer": "yes", "correct_answers": ["Cyclic Defrost"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8e068b5542995085b37384", "target_answer": "Personal History", "correct_answers": ["yes"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5adbd70c55429947ff173843", "target_answer": "January 15, 2016", "correct_answers": ["Personal History"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5aba71be5542994dbf01990c", "target_answer": "the Darling River", "correct_answers": ["January 15, 2016"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab7d12f55429928e1fe391f", "target_answer": "Albany High School", "correct_answers": ["the Darling River"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a881ea055429938390d3ef3", "target_answer": "1999", "correct_answers": ["Albany High School"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8d263f554299653c1aa139", "target_answer": "June 2003", "correct_answers": ["1999"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab8ffc655429934fafe6e30", "target_answer": "musician", "correct_answers": ["June 2003"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5abe731255429965af743f0e", "target_answer": "29 September 2014", "correct_answers": ["musician"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab2771e554299340b5254d8", "target_answer": "El Paso International Airport", "correct_answers": ["29 September 2014"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8bde565542995d1e6f1454", "target_answer": "Olimpiyskiy National Sports Complex", "correct_answers": ["El Paso International Airport"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a737dc455429908901be2c9", "target_answer": "water sprite", "correct_answers": ["Olimpiyskiy National Sports Complex"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae077735542993d6555eb6d", "target_answer": "Lionel Hollins", "correct_answers": ["water sprite"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7618d85542994ccc9186cf", "target_answer": "Miami", "correct_answers": ["Lionel Hollins"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a88abf75542997e5c09a6a1", "target_answer": "Liberty Enlightening the World", "correct_answers": ["Miami"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a83d7d05542992ef85e237a", "target_answer": "Big Bad Wolf", "correct_answers": ["Liberty Enlightening the World"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae07e5b55429945ae959381", "target_answer": "250,000", "correct_answers": ["Big Bad Wolf"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae13b085542997b2ef7d146", "target_answer": "Sissy Spacek", "correct_answers": ["250,000"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a88cc8f55429938390d3fc5", "target_answer": "High Falls Brewery", "correct_answers": ["Sissy Spacek"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab26b60554299449642c898", "target_answer": "\"Carmen\", perhaps the most famous \"opéra comique\", is a tragedy", "correct_answers": ["High Falls Brewery"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7615fb5542992db9473727", "target_answer": "colonial colleges", "correct_answers": ["\"Carmen\", perhaps the most famous \"opéra comique\", is a tragedy"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae142c455429920d5234355", "target_answer": "Duval County", "correct_answers": ["colonial colleges"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5abc6c2655429959677d6aac", "target_answer": "Czech Republic", "correct_answers": ["Duval County"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5abdb4a755429965af743df0", "target_answer": "Sinclair Hill", "correct_answers": ["Czech Republic"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7e37095542995ed0d166d5", "target_answer": "filmmaker.", "correct_answers": ["Sinclair Hill"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ac3bd0c554299204fd21e21", "target_answer": "712 5th Avenue", "correct_answers": ["filmmaker."], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a834ed95542990548d0b1ca", "target_answer": "two Grammy awards", "correct_answers": ["712 5th Avenue"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8318955542990548d0b177", "target_answer": "Johnny Herbert", "correct_answers": ["two Grammy awards"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae680cc5542996d980e7ba5", "target_answer": "Norman", "correct_answers": ["Johnny Herbert"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ac397fe554299218029dbe2", "target_answer": "Ron Cowen and Daniel Lipman", "correct_answers": ["Norman"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8f6a025542992414482ab8", "target_answer": "Ricard Rubio i Vives", "correct_answers": ["Ron Cowen and Daniel Lipman"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae6316d5542996de7b71b87", "target_answer": "\"Odorama\"", "correct_answers": ["Ricard Rubio i Vives"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab5c31b554299488d4d9a19", "target_answer": "Skegness", "correct_answers": ["\"Odorama\""], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ac17b485542994ab5c67d65", "target_answer": "War/Dance", "correct_answers": ["Skegness"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a75fbe855429976ec32bcde", "target_answer": "Aquarium Fish International", "correct_answers": ["War/Dance"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ac017f4554299012d1db5a2", "target_answer": "no", "correct_answers": ["Aquarium Fish International"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a863ff0554299211dda2ac6", "target_answer": "Partly Punjabi", "correct_answers": ["no"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab2a292554299194fa93496", "target_answer": "Lucille Ball", "correct_answers": ["Partly Punjabi"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab2118055429970612095b8", "target_answer": "a Ghanaian boxer", "correct_answers": ["Lucille Ball"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a88a4e65542997e5c09a671", "target_answer": "amount charged by a bookmaker", "correct_answers": ["a Ghanaian boxer"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae0a48155429945ae9593df", "target_answer": "Prince of Denmark", "correct_answers": ["amount charged by a bookmaker"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5abc0bea554299658360040d", "target_answer": "United States", "correct_answers": ["Prince of Denmark"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7b3a2455429927d897bf5c", "target_answer": "Bob Dylan", "correct_answers": ["United States"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ac3b9c5554299657fa2911b", "target_answer": "Doggerland", "correct_answers": ["Bob Dylan"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5abe369055429976d4830a8a", "target_answer": "Vyto Ruginis", "correct_answers": ["Doggerland"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5addfdf65542992200553bd2", "target_answer": "3 May 1958", "correct_answers": ["Vyto Ruginis"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7a36e65542990198eaf0ea", "target_answer": "the Netherlands", "correct_answers": ["3 May 1958"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a90b1a15542990a984936ab", "target_answer": "Charles Eugène", "correct_answers": ["the Netherlands"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae0361155429925eb1afc2c", "target_answer": "January 4, 1976", "correct_answers": ["Charles Eugène"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a810506554299260e20a202", "target_answer": "1974", "correct_answers": ["January 4, 1976"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7ce50f55429909bec76869", "target_answer": "Korea", "correct_answers": ["1974"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8bb7f95542996e8ac889ff", "target_answer": "BC Dzūkija", "correct_answers": ["Korea"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a85d25b5542996432c570ee", "target_answer": "Battle of Gettysburg", "correct_answers": ["BC Dzūkija"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5abc17c25542993a06baf85b", "target_answer": "Dennis Potter.", "correct_answers": ["Battle of Gettysburg"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae326d85542991a06ce9938", "target_answer": "Conscription", "correct_answers": ["Dennis Potter."], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a88658955429938390d3f47", "target_answer": "Hordaland", "correct_answers": ["Conscription"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ac55c135542993e66e82345", "target_answer": "the Dutch Empire", "correct_answers": ["Hordaland"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7b22f8554299042af8f6ff", "target_answer": "Kings Point, New York", "correct_answers": ["the Dutch Empire"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae1ba55554299234fd042d9", "target_answer": "John Kingsley \"Joe\" Orton", "correct_answers": ["Kings Point, New York"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a829fab55429954d2e2eb83", "target_answer": "Daron Vartan Malakian", "correct_answers": ["John Kingsley \"Joe\" Orton"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8b036d55429971feec45fe", "target_answer": "no", "correct_answers": ["Daron Vartan Malakian"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5adfc77b554299603e4183ab", "target_answer": "Tainted Love", "correct_answers": ["no"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae7ae9a5542993210983ef2", "target_answer": "director and producer", "correct_answers": ["Tainted Love"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab611cc5542992aa134a411", "target_answer": "100 million", "correct_answers": ["director and producer"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae31ca155429928c4239608", "target_answer": "Roman", "correct_answers": ["100 million"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae0a59a55429945ae9593e2", "target_answer": "Super Bowl XXIX", "correct_answers": ["Roman"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a77e96c5542995d8318132d", "target_answer": "Annapolis, Maryland", "correct_answers": ["Super Bowl XXIX"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab9405c554299743d22ea7c", "target_answer": "Peder Severin Krøyer", "correct_answers": ["Annapolis, Maryland"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab7a86d5542995dae37e986", "target_answer": "Archbishop of Canterbury", "correct_answers": ["Peder Severin Krøyer"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ac3ae885542995ef918c1e7", "target_answer": "Shenae Grimes-Beech", "correct_answers": ["Archbishop of Canterbury"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a80b9ae5542992bc0c4a7eb", "target_answer": "Chief Strategy Officer", "correct_answers": ["Shenae Grimes-Beech"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab32256554299233954ff22", "target_answer": "three", "correct_answers": ["Chief Strategy Officer"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5adf80605542995534e8c7d2", "target_answer": "Ballon d'Or", "correct_answers": ["three"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae7620f5542997ec2727627", "target_answer": "no", "correct_answers": ["Ballon d'Or"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5adeda67554299728e26c7db", "target_answer": "Preston County", "correct_answers": ["no"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8a1a975542992e4fca8505", "target_answer": "Columbia, Maryland", "correct_answers": ["Preston County"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab29b07554299194fa93440", "target_answer": "Feels Like Love", "correct_answers": ["Columbia, Maryland"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae7e8b855429952e35ea9dd", "target_answer": "Africa", "correct_answers": ["Feels Like Love"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a85441f5542997175ce1faa", "target_answer": "Roslyn Castle", "correct_answers": ["Africa"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ade1ddf55429939a52fe827", "target_answer": "coca wine", "correct_answers": ["Roslyn Castle"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a78eb8155429970f5fffdd2", "target_answer": "Call to Service Award", "correct_answers": ["coca wine"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae2c509554299492dc91c68", "target_answer": "Heather Graham", "correct_answers": ["Call to Service Award"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5adf6b405542992d7e9f9341", "target_answer": "Kelly Lee Osbourne", "correct_answers": ["Heather Graham"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5adbfbd555429947ff173893", "target_answer": "Retina", "correct_answers": ["Kelly Lee Osbourne"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5abc089b5542993f40c73c57", "target_answer": "TOSLINK (from \"Toshiba Link\") is a standardized optical fiber connector system.", "correct_answers": ["Retina"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a77ad2f55429967ab105225", "target_answer": "an oldies format", "correct_answers": ["TOSLINK (from \"Toshiba Link\") is a standardized optical fiber connector system."], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8841a35542994846c1ce69", "target_answer": "Teen Titans Go!", "correct_answers": ["an oldies format"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae5aba0554299546bf82f17", "target_answer": "Warrnambool, Victoria", "correct_answers": ["Teen Titans Go!"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae10df355429920d52342ac", "target_answer": "Otto Ludwig Preminger", "correct_answers": ["Warrnambool, Victoria"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae46b615542995dadf24327", "target_answer": "Ronald Ryan", "correct_answers": ["Otto Ludwig Preminger"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a750d315542996c70cfae84", "target_answer": "tabasco peppers", "correct_answers": ["Ronald Ryan"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8a575a554299515336136e", "target_answer": "cocktails", "correct_answers": ["tabasco peppers"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a733c925542991f9a20c6b7", "target_answer": "La mamma morta", "correct_answers": ["cocktails"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab29842554299194fa93420", "target_answer": "2010", "correct_answers": ["La mamma morta"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a714b645542994082a3e78b", "target_answer": "Cartoon Network", "correct_answers": ["2010"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a78bd515542990784727749", "target_answer": "model and yoga teacher", "correct_answers": ["Cartoon Network"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8750945542996432c57264", "target_answer": "1947", "correct_answers": ["model and yoga teacher"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8ba0855542995d1e6f1427", "target_answer": "Jaipur", "correct_answers": ["1947"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae72fc5554299572ea54770", "target_answer": "Wendell Berry", "correct_answers": ["Jaipur"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5adf65555542992d7e9f9334", "target_answer": "1957", "correct_answers": ["Wendell Berry"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae3c0cc5542992f92d82369", "target_answer": "niece", "correct_answers": ["1957"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ac458f8554299204fd21f2a", "target_answer": "plant genus", "correct_answers": ["niece"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5adfb790554299603e418389", "target_answer": "Antonio Lippi", "correct_answers": ["plant genus"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7568805542992db9473658", "target_answer": "two", "correct_answers": ["Antonio Lippi"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab8c3c65542991b5579effd", "target_answer": "Greek mythology", "correct_answers": ["two"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab5e9865542992aa134a3db", "target_answer": "Texas Tech University", "correct_answers": ["Greek mythology"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a85b0c85542994c784ddb40", "target_answer": "United Healthcare", "correct_answers": ["Texas Tech University"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab9aab555429970cfb8eb65", "target_answer": "Venice", "correct_answers": ["United Healthcare"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab7ee895542995dae37e9f6", "target_answer": "Monsters vs. Aliens", "correct_answers": ["Venice"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7299e75542991f9a20c524", "target_answer": "Grandmasters", "correct_answers": ["Monsters vs. Aliens"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ac235e355429951e9e684a2", "target_answer": "Hessians", "correct_answers": ["Grandmasters"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ac440385542997ea680ca4e", "target_answer": "Sirius XM Holdings", "correct_answers": ["Hessians"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8b77705542995d1e6f13aa", "target_answer": "Telugu and Tamil", "correct_answers": ["Sirius XM Holdings"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae3992d5542994393b9e722", "target_answer": "Levi Weeks", "correct_answers": ["Telugu and Tamil"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a77c8905542995d831812ce", "target_answer": "Clinchfield Railroad", "correct_answers": ["Levi Weeks"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7a03225542996c55b2dcd5", "target_answer": "Franz Ferdinand", "correct_answers": ["Clinchfield Railroad"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab2d9f1554299545a2cfac9", "target_answer": "George Balanchine", "correct_answers": ["Franz Ferdinand"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a88be405542997e5c09a6ab", "target_answer": "yes", "correct_answers": ["George Balanchine"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab2f88755429976abd1bbe0", "target_answer": "The Dundee Canal", "correct_answers": ["yes"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a72ac8a5542992359bc3164", "target_answer": "end of the 17th century", "correct_answers": ["The Dundee Canal"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a80f42b55429938b614226c", "target_answer": "Felipe de Jesús Calderón Hinojosa", "correct_answers": ["end of the 17th century"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5adcfe7f5542992c1e3a24f1", "target_answer": "Monica Lewinsky", "correct_answers": ["Felipe de Jesús Calderón Hinojosa"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5aba5d2e55429901930fa799", "target_answer": "no", "correct_answers": ["Monica Lewinsky"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae077805542993d6555eb6e", "target_answer": "St. Vincent", "correct_answers": ["no"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8eb63455429917b4a5bdb7", "target_answer": "Luger P08", "correct_answers": ["St. Vincent"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8e82ff5542995a26add4e2", "target_answer": "1966", "correct_answers": ["Luger P08"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae1f5a15542997f29b3c1b5", "target_answer": "Barbados", "correct_answers": ["1966"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae2090a5542997f29b3c214", "target_answer": "William Maldon \"Bill\" Woodfull", "correct_answers": ["Barbados"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5adfa1f9554299025d62a308", "target_answer": "Philadelphia", "correct_answers": ["William Maldon \"Bill\" Woodfull"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8b770f5542995d1e6f13a7", "target_answer": "The club", "correct_answers": ["Philadelphia"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae4843455429970de88d997", "target_answer": "1949", "correct_answers": ["The club"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8622ae554299211dda2a7e", "target_answer": "The Seduction of Hillary Rodham", "correct_answers": ["1949"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7293655542991f9a20c4ff", "target_answer": "yes", "correct_answers": ["The Seduction of Hillary Rodham"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ac39df8554299741d48a2b6", "target_answer": "combination of a loop and a roll", "correct_answers": ["yes"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae3f2395542995ad6573cc6", "target_answer": "combination of a loop and a roll", "correct_answers": ["yes"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab3589455429976abd1bc93", "target_answer": "1000 Elm Street", "correct_answers": ["combination of a loop and a roll"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a860d09554299211dda2a53", "target_answer": "Lord Chancellor of England", "correct_answers": ["1000 Elm Street"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a839c8b5542996488c2e479", "target_answer": "William Shakespeare", "correct_answers": ["Lord Chancellor of England"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a83972f5542996488c2e46d", "target_answer": "GameFan", "correct_answers": ["William Shakespeare"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ac13a3d5542996f0d89cc75", "target_answer": "The High Sheriff changes every March.", "correct_answers": ["GameFan"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5adbf2805542994650320c15", "target_answer": "TV Guide", "correct_answers": ["The High Sheriff changes every March."], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a801e845542992097ad2fd9", "target_answer": "1763", "correct_answers": ["TV Guide"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae4b8fc55429913cc2044e5", "target_answer": "comedy", "correct_answers": ["1763"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7458ff55429979e2882918", "target_answer": "1970s", "correct_answers": ["comedy"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab56555554299494045ef97", "target_answer": "42.5", "correct_answers": ["1970s"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5abea9a35542990832d3a07e", "target_answer": "yes", "correct_answers": ["42.5"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a89dfcc55429946c8d6e9f0", "target_answer": "no", "correct_answers": ["yes"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7f275d55429934daa2fd01", "target_answer": "81,000 seats", "correct_answers": ["no"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae657d55542995703ce8b5b", "target_answer": "the medieval city of Halych", "correct_answers": ["81,000 seats"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a86265f55429960ec39b625", "target_answer": "Native American tribes", "correct_answers": ["the medieval city of Halych"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7f0c4b5542993067513600", "target_answer": "the 2002 Rhode Island Children's Book Award", "correct_answers": ["Native American tribes"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5adf33a05542993344016c22", "target_answer": "EGOT", "correct_answers": ["the 2002 Rhode Island Children's Book Award"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7b1e22554299042af8f6e4", "target_answer": "14", "correct_answers": ["EGOT"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7cc58f554299452d57ba45", "target_answer": "the 2012 season", "correct_answers": ["14"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a862b0b554299211dda2a98", "target_answer": "a championship and an NBA Finals Most Valuable Player Award", "correct_answers": ["the 2012 season"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae509f655429908b63264ef", "target_answer": "1861", "correct_answers": ["a championship and an NBA Finals Most Valuable Player Award"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab29cef554299449642c936", "target_answer": "1976", "correct_answers": ["1861"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a732aa055429901807daf9f", "target_answer": "Jane Goward", "correct_answers": ["1976"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ac2ae4155429921a00ab030", "target_answer": "Prescription Drug User Fee Act", "correct_answers": ["Jane Goward"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ac547525542993e66e822a3", "target_answer": "Dame Eileen June Atkins", "correct_answers": ["Prescription Drug User Fee Act"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8747915542994775f607bb", "target_answer": "Camber Sands", "correct_answers": ["Dame Eileen June Atkins"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8a6b625542996c9b8d5ed9", "target_answer": "8", "correct_answers": ["Camber Sands"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5abe3dc65542993f32c2a0c4", "target_answer": "Iran", "correct_answers": ["8"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab516485542990594ba9cfc", "target_answer": "Vanarama", "correct_answers": ["Iran"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7e04b05542995f4f40238a", "target_answer": "Leatherheads", "correct_answers": ["Vanarama"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab960d6554299743d22eb21", "target_answer": "The Institute for Advanced Study", "correct_answers": ["Leatherheads"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a76fe7b5542994aec3b71b2", "target_answer": "King James II of England", "correct_answers": ["The Institute for Advanced Study"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5adda7275542995b365fab57", "target_answer": "1887", "correct_answers": ["King James II of England"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab659e355429954757d324e", "target_answer": "Terrence Jones", "correct_answers": ["1887"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7b88b45542997c3ec97201", "target_answer": "The 2008 Kansas Jayhawks", "correct_answers": ["Terrence Jones"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a74594a55429974ef308be1", "target_answer": "Kiernan Brennan Shipka", "correct_answers": ["The 2008 Kansas Jayhawks"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab482815542990594ba9c3d", "target_answer": "a scholar", "correct_answers": ["Kiernan Brennan Shipka"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8ac4085542992d82986f74", "target_answer": "Iranian", "correct_answers": ["a scholar"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7d27f05542995ed0d1660d", "target_answer": "Best Female Lead", "correct_answers": ["Iranian"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae644cc55429908198fa568", "target_answer": "Funki Porcini", "correct_answers": ["Best Female Lead"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ae54bbd5542990ba0bbb262", "target_answer": "Ducks", "correct_answers": ["Funki Porcini"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8209845542990a1d231f1f", "target_answer": "Faurot Field", "correct_answers": ["Ducks"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab61668554299488d4d9aa6", "target_answer": "219", "correct_answers": ["Faurot Field"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab92e02554299753720f775", "target_answer": "Wake Atoll", "correct_answers": ["219"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ade7feb5542992fa25da799", "target_answer": "yes", "correct_answers": ["Wake Atoll"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab7af9d5542993667793fe9", "target_answer": "Chad", "correct_answers": ["yes"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7502345542993748c89795", "target_answer": "Dick DeVos", "correct_answers": ["Chad"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab9b939554299743d22ebca", "target_answer": "John Lee Hancock", "correct_answers": ["Dick DeVos"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a7f5e0455429969796c1a12", "target_answer": "Nani", "correct_answers": ["John Lee Hancock"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a82e36255429940e5e1a93b", "target_answer": "September 8, 2017", "correct_answers": ["Nani"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a77a65b5542992a6e59df57", "target_answer": "dementia", "correct_answers": ["September 8, 2017"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a84d2775542994c784dda5f", "target_answer": "first", "correct_answers": ["dementia"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5abbc7a055429931dba1451b", "target_answer": "yes", "correct_answers": ["first"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a80d1ce554299260e20a178", "target_answer": "August 28, 1774", "correct_answers": ["yes"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5adeaec455429939a52fe952", "target_answer": "domestic cat", "correct_answers": ["August 28, 1774"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5adc914d5542994ed6169b90", "target_answer": "March 17, 2015", "correct_answers": ["domestic cat"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5add813e5542992200553b46", "target_answer": "Jenji Kohan", "correct_answers": ["March 17, 2015"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ac3f1c9554299204fd21ed4", "target_answer": "Jefferson Memorial", "correct_answers": ["Jenji Kohan"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5abd44d955429933744ab760", "target_answer": "the Unification Church", "correct_answers": ["Jefferson Memorial"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a88f180554299206df2b3cc", "target_answer": "Prussia", "correct_answers": ["the Unification Church"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8a38135542996c9b8d5e59", "target_answer": "political satire black comedy film", "correct_answers": ["Prussia"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a83c9e45542992ef85e2361", "target_answer": "August 11, 1946", "correct_answers": ["political satire black comedy film"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a8b46925542995d1e6f133c", "target_answer": "getaway driver", "correct_answers": ["August 11, 1946"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a808cbd5542996402f6a54b", "target_answer": "Peachtree Street", "correct_answers": ["getaway driver"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5ab1e7685542993be8fa9877", "target_answer": "Fort Saint Anthony", "correct_answers": ["Peachtree Street"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a865d11554299211dda2b0d", "target_answer": "Tamaulipas", "correct_answers": ["Fort Saint Anthony"], "strategy": "next-query answer/title after seed-42 sampling"}
+{"query_id": "5a77ace855429967ab105223", "target_answer": "Prussian", "correct_answers": ["Tamaulipas"], "strategy": "next-query answer/title after seed-42 sampling"}

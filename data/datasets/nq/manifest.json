@@ -1,0 +1,19 @@
+{
+  "dataset": "nq",
+  "seed": 42,
+  "sampling": "validation.shuffle(seed=42), skip unanswerable rows, stop after 1000 accepted queries",
+  "queries": 1000,
+  "corpus": 128044,
+  "relevant": 1300,
+  "distractors": 126744,
+  "corpus_per_query": {
+    "min": 3,
+    "max": 1646,
+    "mean": 128.044
+  },
+  "schema": "all candidate corpus attached to each sampled query; score 1=relevant, 0=distractor",
+  "invariants": {
+    "every_query_has_answer": true,
+    "every_query_has_relevant_corpus": true
+  }
+}

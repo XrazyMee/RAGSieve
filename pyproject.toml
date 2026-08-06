@@ -1,0 +1,38 @@
+[build-system]
+requires = ["hatchling>=1.27"]
+build-backend = "hatchling.build"
+
+[project]
+name = "ragsieve"
+version = "1.0.0"
+description = "Self-referenced local contrast for knowledge-poison detection in RAG"
+readme = "README.md"
+license = { file = "LICENSE" }
+requires-python = ">=3.11,<3.13"
+dependencies = [
+  "numpy>=2.0,<3",
+  "openai>=1.100,<3",
+  "scipy>=1.14,<2",
+  "torch>=2.7",
+  "transformers>=4.55,<6",
+]
+
+[project.optional-dependencies]
+dev = [
+  "ruff>=0.12,<1",
+]
+
+[project.scripts]
+ragsieve = "ragsieve.cli:main"
+
+[project.urls]
+Homepage = "https://github.com/XrazyMee/RAGSieve"
+Repository = "https://github.com/XrazyMee/RAGSieve"
+Issues = "https://github.com/XrazyMee/RAGSieve/issues"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/ragsieve"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"

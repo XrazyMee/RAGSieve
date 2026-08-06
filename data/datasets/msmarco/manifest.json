@@ -1,0 +1,19 @@
+{
+  "dataset": "msmarco",
+  "seed": 42,
+  "sampling": "validation.shuffle(seed=42), skip unanswerable rows, stop after 1000 accepted queries",
+  "queries": 1000,
+  "corpus": 8239,
+  "relevant": 1116,
+  "distractors": 7123,
+  "corpus_per_query": {
+    "min": 2,
+    "max": 10,
+    "mean": 8.239
+  },
+  "schema": "all candidate corpus attached to each sampled query; score 1=relevant, 0=distractor",
+  "invariants": {
+    "every_query_has_answer": true,
+    "every_query_has_relevant_corpus": true
+  }
+}
