@@ -1,27 +1,20 @@
 # RAGSieve
 
-Reference implementation for **“RAGSieve: Self-Referenced Local Contrast for
-Knowledge-Poison Detection in Retrieval-Augmented Generation.”**
+Code for **RAGSieve: Detecting Knowledge-Poisoned Documents in RAG Without a Trusted Reference**.
 
-RAGSieve detects knowledge-poisoning documents at two control points in a
-retrieval-augmented generation (RAG) system. **RAGSieve-Query (RSQ)** is an online filter:
-it scores the five documents selected for generation against ranks 6--20 for the current
-query. **RAGSieve-Graph (RSG)** is an offline scanner: it scores every corpus document
-against its own semantic--lexical neighborhood. The package contains the implementations
-used in the preprint, exact full-corpus retrieval, Top-5 filtering and refill,
-document-level evaluation, and a compact runnable example.
-
-<p align="center">
-  <img src="docs/ragsieve-overview.svg" alt="RAGSieve deployment overview" width="780">
-</p>
+RAGSieve detects knowledge-poisoning documents at two points in a retrieval-augmented
+generation (RAG) system. **RSQ** is an online filter: it scores the five documents selected
+for generation against ranks 6--20 for the current query. **RSG** is an offline scanner: it
+scores every corpus document against its own semantic--lexical neighborhood. The package
+contains the RSQ and RSG implementations used in the paper, exact full-corpus retrieval, Top-5
+filtering and refill, document-level evaluation, and a compact runnable example.
 
 ## Repository contents
 
 ```text
 data/datasets/       NQ, HotpotQA, and MS MARCO text knowledge bases
 data/demo/           four target queries and 20 example poison documents
-docs/                schemas, prompts, and RAGSieve method diagrams
-src/ragsieve/        RSQ, RSG, retrieval, filtering, and metrics
+src/ragsieve/     RSQ, RSG, retrieval, filtering, and metrics
 install.sh           environment installation
 data_preparation.sh  local construction of the nine dense indices
 run_demo.sh          end-to-end RSQ and RSG functionality check
@@ -171,16 +164,23 @@ combines the empirical corpus tail with writing-system integrity.
 
 ## Joint deployment
 
-The paper's joint evaluation computes RSQ on the original retrieval result, combines its
-flags with RSG's corpus-level flags, and refills Top-5 from the unchanged ranking. RSQ is
-not rescored after RSG filtering. After `bash run_demo.sh`, the PR-W example is:
+Joint deployment is serial: RSG excludes documents first, then RSQ scores the new
+top five against surviving ranks 6--20. Flagged candidates are removed and the context
+is refilled once from the surviving ranking; replacement documents are not rescored.
+After `bash run_demo.sh`, the PR-W example is:
 
 ```bash
-uv run ragsieve filter-contexts \
+uv run ragsieve quarantine-contexts \
   --contexts data/demo/contexts.jsonl \
-  --predictions outputs/demo/rsq-predictions.jsonl \
   --graph-predictions outputs/demo/rsg-predictions.jsonl \
   --condition pr_w \
+  --output outputs/demo/serial-pr_w-contexts.jsonl
+uv run ragsieve detect \
+  --input outputs/demo/serial-pr_w-contexts.jsonl \
+  --output outputs/demo/serial-pr_w-rsq.jsonl --device cuda:0
+uv run ragsieve filter-contexts \
+  --contexts outputs/demo/serial-pr_w-contexts.jsonl \
+  --predictions outputs/demo/serial-pr_w-rsq.jsonl \
   --output outputs/demo/joint-pr_w-top5.jsonl
 
 uv run ragsieve qa \
@@ -190,7 +190,8 @@ uv run ragsieve qa \
   --env-file .env
 ```
 
-For RSG alone, omit `--predictions`. For CEM-C, use `--condition ipi_cem_c` and separate
+For RSG alone, run `filter-contexts` on the original contexts with only
+`--graph-predictions` and `--condition`. For CEM-C, use `--condition ipi_cem_c` and separate
 output paths. `--condition` binds a RSG scan to the retrieval condition being evaluated;
 unpoisoned QA uses a separate RSG scan of the clean corpus. The bundled RSG snapshot
 contains both demo attacks. Full-corpus and clean-QA steps are in
@@ -244,29 +245,29 @@ and environment details are in [the artifact guide](docs/ARTIFACT.md#detection-c
 
 ## Mapping to the paper
 
-The release provides the RAGSieve results and ablations through the following commands.
-Baseline entries are obtained from the implementations cited in the paper.
+The release reproduces the RAGSieve entries and ablations; baseline entries are
+obtained from the implementations cited in the paper. The mapping below follows the current preprint.
 
 | Paper result | Artifact path |
 |---|---|
-| Table 1, RSQ document detection | `detect` then `evaluate` over the nine prepared systems. |
-| Tables 2--3 and Figure 4, online QA | `filter-contexts` followed by `qa` on the retained Top-5. |
-| Table 4 and Figure 5A, RSQ ablation | `ablate` then `evaluate`, using the four leave-one-out variants above. |
-| Table 5, RSG document detection | `detect-graph` then `evaluate-graph` for each corpus snapshot. |
-| Table 6, offline QA | `filter-contexts --graph-predictions ... --condition ...`, then `qa`. |
-| Table 7 and Figure 5B, RSG ablation | `ablate` with `corpus-local-only` or `script-integrity-only`, then `evaluate-graph`. |
-| Figure 6, injection volume | [Snapshot preparation](docs/ARTIFACT.md#full-corpus-rsg-and-joint-qa) with 1, 3, 5, or 10 documents per query, followed by the same detection commands. |
-| Table 8 and Figure 7, joint deployment | `filter-contexts` with both prediction files, then `qa`. |
-| Appendix Figure A1 and Table A2 | Run the commands once per dataset/retriever; retain the per-cell JSON metrics. |
-| Detection cost | `benchmark --mode rsq` or `benchmark --mode rsg` on the stated workload. |
+| Table 1 and Figure C1: RSQ document detection | `detect` then `evaluate` over the nine prepared systems. |
+| Table C1: online QA after RSQ | `filter-contexts` followed by `qa` on the retained Top-5. |
+| Table C2 and Figure C2(a): RSQ ablation | `ablate` then `evaluate`, using the four leave-one-out variants above. |
+| Table 2 and Figure C1: RSG detection | `detect-graph` then `evaluate-graph` for each corpus snapshot. |
+| Table C4 and Figure C2(b): RSG ablation | `ablate` with `corpus-local-only` or `script-integrity-only`, then `evaluate-graph`. |
+| Table C3: offline QA after RSG | `filter-contexts --graph-predictions ... --condition ...`, then `qa`. |
+| Figure C3: injection volume | [Snapshot preparation](docs/ARTIFACT.md#full-corpus-rsg-and-joint-qa) with 1, 3, 5, or 10 documents per query, followed by the same detection commands. |
+| Table 3 and Figure C4: serial deployment | `quarantine-contexts`, `detect` on survivors, `filter-contexts`, then `qa`. |
+| Tables B2/B3 and Figure B1: per-system results | Run the commands once per dataset/retriever; retain the per-cell JSON metrics. |
+| Table B4 and Figure C5: detection cost | `benchmark --mode rsq` or `benchmark --mode rsg` on the stated workload. |
 
-Figures 1 and 2 are explanatory system diagrams rather than generated data figures. Their
-SVG sources are included as [`docs/ragsieve-overview.svg`](docs/ragsieve-overview.svg) and
-[`docs/ragsieve-method.svg`](docs/ragsieve-method.svg).
+The same detection and serial QA commands accept independently prepared adaptive attack
+files for Tables D2, D4, and D5. Attack optimization code is not included.
+
+The paper's system diagrams are explanatory rather than generated data figures.
 Detailed schemas and the expected evaluation protocol are in
 [`docs/ARTIFACT.md`](docs/ARTIFACT.md).
 
 ## License
 
-The RAGSieve implementation is released under the [MIT License](LICENSE). The released datasets
-and model weights retain their original licenses.
+The code is released under the MIT License; see [LICENSE](LICENSE). Dataset and model licenses remain with their respective owners.

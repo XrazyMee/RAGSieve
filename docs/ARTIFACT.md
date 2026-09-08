@@ -42,7 +42,7 @@ Optimization traces are unnecessary for evaluation and are omitted from the demo
 ### Prepared RSQ context
 
 Each line represents one retrieval event and contains a query plus its ranked documents.
-`prepare-contexts` saves the top 100; the compact, precomputed demo contains the top 20.
+`prepare-contexts` and the precomputed demo both retain the top 100 for serial filtering.
 
 | Field | Description |
 |---|---|
@@ -94,10 +94,12 @@ For each reported cell, preserve the dataset, retriever, attack, injection volum
 original retrieval order. The main document-level metric reports poison detection when
 clean-document removal is at most 5%. End-to-end evaluation removes flagged documents,
 traverses the unchanged ranking to refill five documents, and then runs the QA prompt.
-Joint evaluation unions the original RSQ flags and RSG flags before refill. It does not
-recompute RSQ on a different candidate set or reference tail. `--exclude-predictions`
-supports retrieval from an already quarantined index, but is not used to reproduce this
-joint evaluation.
+Joint evaluation applies RSG before RSQ. `quarantine-contexts` removes corpus flags
+from an exact saved ranking, preserves all survivors for refill, and renumbers them.
+RSQ then scores survivor ranks 1--5 against survivor ranks 6--20, followed by one refill
+without rescoring replacements. At least 20 survivors are required; otherwise retrieve
+a deeper pool or use `prepare-contexts --exclude-predictions` to search the filtered index.
+Original-context RSQ predictions must not be reused for changed candidates or references.
 
 ## End-to-end QA configuration
 
@@ -157,7 +159,7 @@ uv run ragsieve detect-graph --documents data/datasets/nq/corpus.jsonl \
   --embeddings data/indices/nq/bge-m3/embeddings.npy \
   --output "$snapshot/rsg-clean.jsonl" --device cuda:0
 
-# Save the original ranking and compute RSQ once, before either filter is applied.
+# Save the exact ranking; standalone RSQ metrics use the original contexts.
 uv run ragsieve prepare-contexts --dataset-dir data/datasets/nq \
   --index-dir data/indices/nq/bge-m3 --attacks "$snapshot/attacks.jsonl" \
   --subset data/datasets/nq/subset_seed2026_n100.json \
@@ -168,9 +170,13 @@ uv run ragsieve evaluate --predictions "$snapshot/rsq.jsonl" \
   --output "$snapshot/rsq-metrics.json"
 
 for condition in clean pr_w; do
-  uv run ragsieve filter-contexts --contexts "$snapshot/contexts.jsonl" \
-    --predictions "$snapshot/rsq.jsonl" \
+  uv run ragsieve quarantine-contexts --contexts "$snapshot/contexts.jsonl" \
     --graph-predictions "$snapshot/rsg-${condition}.jsonl" \
+    --condition "$condition" --output "$snapshot/serial-${condition}-contexts.jsonl"
+  uv run ragsieve detect --input "$snapshot/serial-${condition}-contexts.jsonl" \
+    --output "$snapshot/serial-${condition}-rsq.jsonl" --device cuda:0
+  uv run ragsieve filter-contexts --contexts "$snapshot/serial-${condition}-contexts.jsonl" \
+    --predictions "$snapshot/serial-${condition}-rsq.jsonl" \
     --condition "$condition" --output "$snapshot/joint-${condition}-top5.jsonl"
   uv run ragsieve qa --input "$snapshot/joint-${condition}-top5.jsonl" \
     --output "$snapshot/joint-${condition}-qa.jsonl" \
@@ -178,8 +184,9 @@ for condition in clean pr_w; do
 done
 ```
 
-For RSG-only QA, use the same loop without `--predictions` and change the output prefix
-from `joint-` to `rsg-`. For an unfiltered reference, omit both prediction arguments;
+For RSG-only QA, apply `filter-contexts` to the original contexts with the corresponding
+`--graph-predictions` and `--condition`, then run `qa`. For an unfiltered reference,
+omit both prediction arguments;
 `filter-contexts` then selects the original Top-5. Each invocation operates on one
 dataset/retriever. Keep the resulting per-cell metrics and macro-average cells with
 equal weight, rather than pooling all document or QA rows.

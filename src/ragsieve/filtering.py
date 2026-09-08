@@ -33,7 +33,12 @@ def filter_contexts(
     graph_predictions_path: Path | None = None,
     condition: str | None = None,
 ) -> int:
-    """Union RSQ and RSG flags, then refill from the unchanged retrieval ranking."""
+    """Apply one filtering stage and refill from its input ranking."""
+    if predictions_path is not None and graph_predictions_path is not None:
+        raise ValueError(
+            "joint deployment is serial: quarantine-contexts, detect on the surviving "
+            "ranking, then filter-contexts with those RSQ predictions"
+        )
     if graph_predictions_path is not None and condition is None:
         raise ValueError("specify condition to associate RSG predictions with a corpus snapshot")
     flagged: set[tuple[str, str, str]] = set()
@@ -98,5 +103,46 @@ def filter_contexts(
                 )
                 + "\n"
             )
+            written += 1
+    return written
+
+
+def quarantine_contexts(
+    contexts_path: Path,
+    graph_predictions_path: Path,
+    output_path: Path,
+    *,
+    condition: str,
+) -> int:
+    """Exclude RSG flags and rebuild ranks before RSQ, keeping the refill pool."""
+    corpus_flags: set[str] = set()
+    for row in _read_jsonl(graph_predictions_path):
+        if not isinstance(row.get("flagged"), bool):
+            raise TypeError("every RSG prediction needs a boolean flagged field")
+        if row["flagged"]:
+            corpus_flags.add(_document_id(row))
+    output_path.parent.mkdir(parents=True, exist_ok=True)
+    written = 0
+    with output_path.open("w", encoding="utf-8", newline="\n") as output:
+        for record in _read_jsonl(contexts_path):
+            if str(record.get("condition", "unspecified")) != condition:
+                continue
+            documents = record["documents"]
+            ranks = [document["rank"] for document in documents]
+            if ranks != sorted(set(ranks)):
+                raise ValueError("context ranks must be unique and ascending")
+            retained = [doc for doc in documents if _document_id(doc) not in corpus_flags]
+            if len(retained) < 20:
+                raise ValueError(
+                    f"{record.get('query_id')}/{condition}: fewer than 20 survivors; "
+                    "retrieve a deeper pool or use prepare-contexts --exclude-predictions"
+                )
+            output.write(json.dumps({
+                **record,
+                "documents": [{**doc, "rank": i} for i, doc in enumerate(retained, 1)],
+                "quarantined_document_ids": [
+                    _document_id(doc) for doc in documents if _document_id(doc) in corpus_flags
+                ],
+            }, ensure_ascii=False) + "\n")
             written += 1
     return written

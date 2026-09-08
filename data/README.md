@@ -7,7 +7,7 @@ distributed: `data_preparation.sh` materializes them under the ignored `data/ind
 directory with the selected retriever.
 
 `demo/` is a small, ready-to-inspect example. It contains four NQ target queries, two
-PR-W and two CEM-C attack realizations (five documents per query), prepared top-20 BGE-M3
+PR-W and two CEM-C attack realizations (five documents per query), prepared top-100 BGE-M3
 retrieval contexts, and a 520-document corpus snapshot for RSG. Optimization traces are
 not included. The attack examples are evaluation fixtures; the release does not contain
 attack-generation code.

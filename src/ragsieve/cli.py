@@ -12,7 +12,7 @@ import numpy as np
 import torch
 
 from .detector import DetectorConfig, RAGSieveQueryDetector
-from .filtering import filter_contexts
+from .filtering import filter_contexts, quarantine_contexts
 from .graph import GraphDetectorConfig, RAGSieveGraphDetector
 from .metrics import detection_metrics
 from .qa import load_openai_config, run_qa
@@ -289,6 +289,14 @@ def run_filter_contexts(args: argparse.Namespace) -> None:
     print(f"wrote {count} refilled generation contexts to {args.output}")
 
 
+def run_quarantine_contexts(args: argparse.Namespace) -> None:
+    count = quarantine_contexts(
+        Path(args.contexts), Path(args.graph_predictions), Path(args.output),
+        condition=args.condition,
+    )
+    print(f"wrote {count} surviving rankings to {args.output}")
+
+
 def run_qa_evaluation(args: argparse.Namespace) -> None:
     summary = run_qa(
         Path(args.input),
@@ -459,7 +467,7 @@ def build_parser() -> argparse.ArgumentParser:
     evaluate.set_defaults(handler=run_evaluation)
 
     filter_parser = subparsers.add_parser(
-        "filter-contexts", help="union RSQ/RSG flags and refill the generation top five"
+        "filter-contexts", help="apply one filter and refill the generation top five"
     )
     filter_parser.add_argument("--contexts", required=True)
     filter_parser.add_argument("--predictions", help="RSQ query-level predictions")
@@ -472,6 +480,15 @@ def build_parser() -> argparse.ArgumentParser:
     filter_parser.add_argument("--output", required=True)
     filter_parser.add_argument("--context-size", type=int, default=5)
     filter_parser.set_defaults(handler=run_filter_contexts)
+
+    quarantine = subparsers.add_parser(
+        "quarantine-contexts", help="exclude RSG flags before RSQ and rebuild retrieval ranks"
+    )
+    quarantine.add_argument("--contexts", required=True)
+    quarantine.add_argument("--graph-predictions", required=True)
+    quarantine.add_argument("--condition", required=True)
+    quarantine.add_argument("--output", required=True)
+    quarantine.set_defaults(handler=run_quarantine_contexts)
 
     qa = subparsers.add_parser(
         "qa", help="run answer generation and semantic ASR judging after filtering"

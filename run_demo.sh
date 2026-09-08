@@ -36,11 +36,18 @@ for condition in pr_w ipi_cem_c; do
     --graph-predictions outputs/demo/rsg-predictions.jsonl \
     --condition "${condition}" \
     --output "outputs/demo/rsg-${condition}-top5.jsonl"
-  uv run ragsieve filter-contexts \
+  uv run ragsieve quarantine-contexts \
     --contexts data/demo/contexts.jsonl \
-    --predictions outputs/demo/rsq-predictions.jsonl \
     --graph-predictions outputs/demo/rsg-predictions.jsonl \
     --condition "${condition}" \
+    --output "outputs/demo/serial-${condition}-contexts.jsonl"
+  uv run ragsieve detect \
+    --input "outputs/demo/serial-${condition}-contexts.jsonl" \
+    --output "outputs/demo/serial-${condition}-rsq.jsonl" \
+    --device "${device}"
+  uv run ragsieve filter-contexts \
+    --contexts "outputs/demo/serial-${condition}-contexts.jsonl" \
+    --predictions "outputs/demo/serial-${condition}-rsq.jsonl" \
     --output "outputs/demo/joint-${condition}-top5.jsonl"
 done
 
